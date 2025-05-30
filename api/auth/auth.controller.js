@@ -38,12 +38,12 @@ export async function signup(req, res) {
 		res.status(400).send({ err: 'Failed to signup' })
 	}
 }
-
 export async function logout(req, res) {
-	try {
-		res.clearCookie('loginToken')
-		res.send({ msg: 'Logged out successfully' })
-	} catch (err) {
-		res.status(400).send({ err: 'Failed to logout' })
-	}
+  try {
+    // path: '/', secure ו־sameSite חייבים להתאים ל־cookie שמוגדר ב-login
+    res.clearCookie('loginToken', { path: '/', sameSite: 'None', secure: true })
+    res.send({ msg: 'Logged out successfully' })
+  } catch (err) {
+    res.status(400).send({ err: 'Failed to logout' })
+  }
 }

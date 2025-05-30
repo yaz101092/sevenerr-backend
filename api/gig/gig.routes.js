@@ -11,7 +11,7 @@ const router = express.Router()
 // router.use(requireAuth)
 
 router.get('/', log, getGigs)
-router.get('/:id', log, getGigById)
+router.get('/:id', log,  getGigById)
 router.post('/', log, requireAuth, addGig)
 router.put('/:id', requireAuth, updateGig)
 router.delete('/:id', requireAuth, removeGig)

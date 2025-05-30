@@ -675,3 +675,270 @@
 29.5.2025, 16:58:30 - INFO - /api/gig | GET | {} | {}
 29.5.2025, 17:43:43 - INFO - /api/gig | GET | {} | {}
 29.5.2025, 17:43:43 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 17:00:06 - INFO - Server is running on port: 3030
+30.5.2025, 17:00:06 - INFO - server.js loaded...
+30.5.2025, 17:00:09 - DEBUG - auth.service - signup with username: yazan123, fullname: Yazan Meray
+30.5.2025, 17:00:09 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 17:00:09 - DEBUG - auth.route - new account created: {"username":"yazan123","password":"$2b$10$LbPHATZN4QGPFFj.iEeONuWJPsERXiVL92JeBFMsfF/sy8.da4XKq","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null,"_id":"6839b9e9114e03adefa28af0"}
+30.5.2025, 17:00:09 - INFO - User signup: | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 17:00:42 - DEBUG - auth.service - signup with username: yazan123, fullname: Yazan Meray
+30.5.2025, 17:00:42 - ERROR - Failed to signup Username already taken
+30.5.2025, 17:07:03 - DEBUG - auth.service - signup with username: yazan123, fullname: Yazan Meray
+30.5.2025, 17:07:03 - ERROR - Failed to signup Username already taken
+30.5.2025, 17:12:22 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 17:12:23 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 17:14:16 - DEBUG - auth.service - signup with username: yazan123, fullname: Yazan Meray
+30.5.2025, 17:14:16 - ERROR - Failed to signup Username already taken
+30.5.2025, 17:14:23 - DEBUG - auth.service - signup with username: yazan123, fullname: Yazan Meray
+30.5.2025, 17:14:23 - ERROR - Failed to signup Username already taken
+30.5.2025, 17:15:34 - DEBUG - auth.service - signup with username: yazan123, fullname: Yazan Meray
+30.5.2025, 17:15:34 - ERROR - Failed to signup Username already taken
+30.5.2025, 17:15:59 - DEBUG - auth.service - signup with username: yazan124, fullname: Yazan Meray
+30.5.2025, 17:15:59 - DEBUG - auth.service - login with username: yazan124
+30.5.2025, 17:15:59 - DEBUG - auth.route - new account created: {"username":"yazan124","password":"$2b$10$bHt8H6L/9ZQxkb5nNcGoxeoa7E/PNrttbok8oVKhUksBXmZo0iKPi","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null,"_id":"6839bd9f114e03adefa28af1"}
+30.5.2025, 17:15:59 - INFO - User signup: | {"_id":"6839bd9f114e03adefa28af1","username":"yazan124","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 17:39:56 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 17:39:56 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 17:46:53 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 17:48:34 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 17:48:34 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 17:49:54 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 17:50:03 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 17:51:52 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 17:52:00 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 17:55:22 - INFO - server.js loaded...
+30.5.2025, 17:55:22 - INFO - Server is running on port: 3030
+30.5.2025, 17:58:03 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 17:58:04 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 17:59:14 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 17:59:35 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:00:49 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:00:52 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:00:53 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:00:54 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:01:35 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:01:36 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:06:16 - INFO - server.js loaded...
+30.5.2025, 18:06:16 - INFO - Server is running on port: 3030
+30.5.2025, 18:06:48 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 18:06:48 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 18:07:12 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:07:15 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:08:01 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:08:04 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:09:49 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 18:09:49 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 18:10:17 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 18:10:22 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 19:21:08 - INFO - server.js loaded...
+30.5.2025, 19:21:08 - INFO - Server is running on port: 3030
+30.5.2025, 19:21:39 - INFO - server.js loaded...
+30.5.2025, 19:21:39 - INFO - Server is running on port: 3030
+30.5.2025, 19:24:40 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 19:24:40 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 19:26:08 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 19:27:04 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 19:46:28 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 19:46:28 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 19:47:21 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 19:50:09 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 19:50:12 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 19:50:27 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 19:54:18 - INFO - server.js loaded...
+30.5.2025, 19:54:18 - INFO - Server is running on port: 3030
+30.5.2025, 19:54:19 - INFO - server.js loaded...
+30.5.2025, 19:54:19 - INFO - Server is running on port: 3030
+30.5.2025, 19:56:31 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 19:56:31 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 19:57:05 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 19:58:31 - DEBUG - auth.service - login with username: yazan123
+30.5.2025, 19:58:31 - INFO - User login:  | {"_id":"6839b9e9114e03adefa28af0","username":"yazan123","fullname":"Yazan Meray","imgUrl":"https://example.com/avatar.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+30.5.2025, 19:59:25 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 19:59:29 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 20:00:28 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+30.5.2025, 20:07:57 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:57 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:57 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:57 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:57 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:57 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:58 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:58 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:58 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:58 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:58 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:58 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:59 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:59 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:59 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:59 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:59 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:07:59 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:00 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:00 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:00 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:00 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:00 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:00 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:00 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:01 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:01 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:01 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:01 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:01 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:02 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:02 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:02 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:02 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:02 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:02 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:03 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:03 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:03 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:03 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:03 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:03 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:04 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:04 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:04 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:04 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:04 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:04 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:06 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:06 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:06 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:06 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:06 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:06 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:07 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:07 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:07 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:07 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:07 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:07 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:08 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:08 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:08 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:08 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:08 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:08 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:09 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:09 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:09 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:09 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:09 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:09 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:10 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:10 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:10 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:10 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:10 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:10 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:11 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:11 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:11 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:11 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:11 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:11 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:12 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:12 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:12 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:12 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:12 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:13 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:13 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:13 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:13 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:13 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:13 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:14 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:14 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:14 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:14 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:14 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:14 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:15 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:15 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:15 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:15 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:15 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:16 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:16 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:16 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:16 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:16 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:16 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:17 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:17 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:17 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:17 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:17 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:17 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:18 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:18 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:18 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:18 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:18 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:19 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:19 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:19 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:20 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:20 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:08:59 - INFO - server.js loaded...
+30.5.2025, 20:08:59 - INFO - Server is running on port: 3030
+30.5.2025, 20:09:05 - INFO - server.js loaded...
+30.5.2025, 20:09:05 - INFO - Server is running on port: 3030
+30.5.2025, 20:13:43 - INFO - server.js loaded...
+30.5.2025, 20:13:43 - INFO - Server is running on port: 3030
+30.5.2025, 20:13:57 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:13:57 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:13:57 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:01 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:10 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:14 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:14 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:23 - INFO - server.js loaded...
+30.5.2025, 20:14:23 - INFO - Server is running on port: 3030
+30.5.2025, 20:14:25 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:25 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:28 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:28 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 20:14:53 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 22:10:50 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 22:26:10 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 22:48:04 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 22:48:04 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 22:48:04 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 22:58:20 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 22:58:37 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 22:58:37 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 22:58:37 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:42:13 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:42:24 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:42:24 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:42:24 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:42:38 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:43:10 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:44:52 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:44:52 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:44:52 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:49:34 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:49:43 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:49:44 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:50:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:50:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:50:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:54:24 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:55:01 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:55:05 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:55:08 - INFO - /api/gig | GET | {} | {}
+30.5.2025, 23:55:10 - INFO - /api/gig | GET | {} | {}

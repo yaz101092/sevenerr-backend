@@ -96,29 +96,31 @@ async function update(user) {
 }
 
 async function add(user) {
-	try {
-		// peek only updatable fields!
-		const userToAdd = {
-            username: user.username,
-            password: user.password,
-            fullname: user.fullname,
-            imgUrl: user.imgUrl || '',
-            desc: '',
-            isSeller: false,
-            lang: ["English", "Hebrew"],
-            level: 1,
-            location: 'Israel',
-            reviews: [],
-            rate: +user.rate
-		}
-		const collection = await dbService.getCollection('user')
-		await collection.insertOne(userToAdd)
-		return userToAdd
-	} catch (err) {
-		logger.error('cannot add user', err)
-		throw err
-	}
+  try {
+    const userToAdd = {
+      username: user.username,
+      password: user.password,
+      fullname: user.fullname,
+      imgUrl: user.imgUrl || '',
+      desc: '',
+      isSeller: false,
+      lang: ["English", "Hebrew"],
+      level: 1,
+      location: 'Israel',
+      reviews: [],
+      rate: +user.rate
+    }
+    const collection = await dbService.getCollection('user')
+    const result = await collection.insertOne(userToAdd)
+    // חשוב: מצמידים את ה־_id מה־insertedId
+    userToAdd._id = result.insertedId.toString()
+    return userToAdd
+  } catch (err) {
+    logger.error('cannot add user', err)
+    throw err
+  }
 }
+
 
 function _buildCriteria(filterBy) {
 	const criteria = {}
