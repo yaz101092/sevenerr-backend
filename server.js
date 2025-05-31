@@ -57,6 +57,16 @@ app.use('/api/order', orderRoutes)
 // Make every unmatched server-side-route fall back to index.html
 // So when requesting http://localhost:3030/index.html/car/123 it will still respond with
 // our SPA (single page app) (the index.html file) and allow vue-router to take it from there
+app.post('/api/auth/logout', (req, res) => {
+  try {
+    req.session?.destroy(() => {
+      res.status(200).send({ message: 'Logged out successfully' })
+    })
+  } catch (err) {
+    console.error('Logout failed:', err)
+    res.status(500).send({ error: 'Logout failed' })
+  }
+})
 
 app.get('/**', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))

@@ -1,4 +1,5 @@
 import fs from 'fs'
+// import  { asyncLocalStorage }  from './als.service'
 
 export const logger = {
     debug(...args) {
@@ -44,4 +45,19 @@ function doLog(level, ...args) {
         if (err) console.log('FATAL: cannot write to log file')
     })
 }
+// function doLog(level, ...args) {
+//     const store = asyncLocalStorage.getStore()
+//     const userId = store?.loggedinUser?._id
+
+//     const strs = args.map(arg => (typeof arg === 'string' || _isError(arg) ? arg : JSON.stringify(arg)))
+
+//     if (userId) strs.push(userId)
+
+//     const line = `${_getTime()} - ${level} - ${strs.join(' | ')}\n`
+//     console.log(line)
+
+//     fs.appendFile(`${logsDir}/backend.log`, line, err => {
+//         if (err) console.log('FATAL: cannot write to log file')
+//     })
+// }
 

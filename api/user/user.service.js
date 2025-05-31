@@ -2,6 +2,7 @@ import {dbService} from '../../services/db.service.js'
 import {logger} from '../../services/logger.service.js'
 // import {reviewService} from '../review/review.service.js'
 import { ObjectId } from 'mongodb'
+// import mongodb from 'mongodb'
 
 export const userService = {
 	add, // Create (Signup)
@@ -19,7 +20,7 @@ async function query(filterBy = {}) {
         var users = await collection.find(criteria).toArray()
         users = users.map(user => {
             delete user.password
-            // user.createdAt = user._id.getTimestamp()
+            user.createdAt = user._id.getTimestamp()
             // Returning fake fresh data
             // user.createdAt = Date.now() - (1000 * 60 * 60 * 24 * 3) // 3 days ago
             return user

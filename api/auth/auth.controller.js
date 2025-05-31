@@ -41,7 +41,7 @@ export async function signup(req, res) {
 export async function logout(req, res) {
   try {
     // path: '/', secure ו־sameSite חייבים להתאים ל־cookie שמוגדר ב-login
-    res.clearCookie('loginToken', { path: '/', sameSite: 'None', secure: true })
+    res.clearCookie('loginToken') //, { path: '/', sameSite: 'None', secure: true }
     res.send({ msg: 'Logged out successfully' })
   } catch (err) {
     res.status(400).send({ err: 'Failed to logout' })

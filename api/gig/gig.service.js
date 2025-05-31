@@ -1,6 +1,7 @@
 import { dbService } from '../../services/db.service.js'
 import { logger } from '../../services/logger.service.js'
-// import asyncLocalStorage from './asyncLocalStorage.service.js'
+import { asyncLocalStorage } from '../../services/als.service.js'
+// import { makeId } from '../../services/util.service.js'
 import { ObjectId } from 'mongodb'
 // import { PAGE_SIZE } from '../config.js'
 
@@ -17,10 +18,10 @@ export const gigService = {
 async function query(filterBy = {}) {
     // { minPrice: '', maxPrice: '', txt: '', category: '', tags: [], daysToMake: '', Level: '', userId: '', sortBy: '' }
 	try {
-		console.log('==============================')
-    	console.log('GIG QUERY FILTER', filterBy)
-        const criteria = _buildCriteria(filterBy)
-		console.log('criteria:', criteria)
+		// console.log('==============================')
+    	// console.log('GIG QUERY FILTER', filterBy)  
+		// console.log('criteria:', criteria)
+		const criteria = _buildCriteria(filterBy)
         const sort = _buildSort(filterBy)
 
 		const collection = await dbService.getCollection('gigs')
@@ -47,7 +48,7 @@ async function getById(gigId) {
 		const collection = await dbService.getCollection('gigs')
 		const gig = await collection.findOne(criteria)
         
-		// gig.createdAt = gig._id.getTimestamp()
+		gig.createdAt = gig._id.getTimestamp()
 		return gig
 	} catch (err) {
 		logger.error(`while finding gig ${gigId}`, err)
@@ -56,7 +57,7 @@ async function getById(gigId) {
 }
 
 async function remove(gigId) {
-    // const { loggedinUser } = asyncLocalStorage.getStore()
+    const { loggedinUser } = asyncLocalStorage.getStore()
     const { _id: ownerId, isAdmin } = loggedinUser
 
 	try {
