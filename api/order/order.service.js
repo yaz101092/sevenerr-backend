@@ -44,7 +44,7 @@ function buildCriteria(filterBy) {
 async function getById(orderId) {
     try {
         const collection = await dbService.getCollection('order')
-        const order = collection.findOne({ _id: ObjectId(orderId) })
+        const order = collection.findOne({ _id: new ObjectId(orderId) })
         return order
     } catch (err) {
         logger.error(`while finding order ${orderId}`, err)
@@ -55,7 +55,7 @@ async function getById(orderId) {
 async function remove(orderId) {
     try {
         const collection = await dbService.getCollection('order')
-        await collection.deleteOne({ _id: ObjectId(orderId) })
+        await collection.deleteOne({ _id: new ObjectId(orderId) })
     } catch (err) {
         logger.error(`cannot remove order ${orderId}`, err)
         throw err
@@ -80,13 +80,13 @@ async function update(order) {
             createdAt: +order.createdAt,
             daysToMake: +order.daysToMake,
             gig: order.gig,
-            packPrice: +order.packPrice,
+            packagePrice: +order.packagePrice,
             seller: order.seller,
             status: order.status,
             title: order.title
         }
         const collection = await dbService.getCollection('order')
-        await collection.updateOne({ _id: ObjectId(order._id) }, { $set: orderToSave })
+        await collection.updateOne({ _id: new ObjectId(order._id) }, { $set: orderToSave })
         return order
     } catch (err) {
         logger.error(`cannot update order ${order_id}`, err)
@@ -98,7 +98,7 @@ async function addOrderMsg(orderId, msg) {
     try {
         msg.id = utilService.makeId()
         const collection = await dbService.getCollection('order')
-        await collection.updateOne({ _id: ObjectId(orderId) }, { $push: { msgs: msg } })
+        await collection.updateOne({ _id: new ObjectId(orderId) }, { $push: { msgs: msg } })
         return msg
     } catch (err) {
         logger.error(`cannot add order msg ${orderId}`, err)
@@ -109,7 +109,7 @@ async function addOrderMsg(orderId, msg) {
 async function removeCarMsg(carId, msgId) {
     try {
         const collection = await dbService.getCollection('car')
-        await collection.updateOne({ _id: ObjectId(carId) }, { $pull: { msgs: { id: msgId } } })
+        await collection.updateOne({ _id: new ObjectId(carId) }, { $pull: { msgs: { id: msgId } } })
         return msgId
     } catch (err) {
         logger.error(`cannot add car msg ${carId}`, err)

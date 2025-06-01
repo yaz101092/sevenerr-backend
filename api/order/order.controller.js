@@ -29,20 +29,30 @@ export async function addOrder(req, res) {
     const { loggedinUser } = req
     // console.log(req.body, loggedinUser)
     try {
-        const { buyer, createdAt, daysToMake, gig, packPrice, seller, status, title } = req.body
+        const { buyer, createdAt, daysToMake, gig, packagePrice, seller, status, title } = req.body
         const order = {
             buyer,
             createdAt: +createdAt,
             daysToMake: +daysToMake,
             gig,
-            packPrice: +packPrice,
+            packagePrice: +packagePrice,
             seller,
             status,
             title
         }
-        if (loggedinUser._id !== buyer._id) return new Error('Failed to add a new order')
+        // if (loggedinUser._id !== buyer._id) return new Error('Failed to add a new order')
+        console.log('loggedinUser:', loggedinUser)
+        console.log('buyer from body:', req.body.buyer)
+
+        if (!buyer || loggedinUser._id !== buyer._id) {
+        return res.status(403).send({ err: 'Invalid buyer information' })
+        }
+
+
+        console.log('Creating order:', order)
+
         const savedOrder = await orderService.add(order)
-        socketService.emitToUser({ type: 'order-added', data: savedOrder, userId: savedOrder.seller._id })
+        // socketService.emitToUser({ type: 'order-added', data: savedOrder, userId: savedOrder.seller._id })
         res.send(savedOrder)
     } catch (err) {
         logger.error('Failed to add order', err)
@@ -52,20 +62,21 @@ export async function addOrder(req, res) {
 
 export async function updateOrder(req, res) {
     try {
-        const { _id, status } = req.body
-        const order = await orderService.getById(_id)
-        order.status = status
+        // זה יביא את ה-id מה-params (מה-URL)
+        const { id } = req.params
+        const updateFields = req.body
+        // שלוף את ההזמנה הקיימת
+        const order = await orderService.getById(id)
+        // עדכן רק את השדות הרלוונטיים
+        Object.assign(order, updateFields)
         const savedOrder = await orderService.update(order)
-        // socketService.emitTo({type:'order-updated', data: savedOrder})
-        socketService.emitToUser({ type: 'order-updated', data: savedOrder, userId: savedOrder.buyer._id })
-        console.log("update order socket");
         res.send(savedOrder)
-
     } catch (err) {
         logger.error('Failed to update order', err)
-        // res.status(500).send({ err: 'Failed to update order' })
+        res.status(500).send({ err: 'Failed to update order' })
     }
 }
+
 
 export async function removeOrder(req, res) {
     try {

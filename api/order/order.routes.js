@@ -11,7 +11,8 @@ export const orderRoutes = express.Router()
 orderRoutes.get('/', log, requireAuth, getOrders)
 orderRoutes.get('/:id', requireAuth, getOrderById)
 orderRoutes.post('/', requireAuth, addOrder)
-orderRoutes.put('/', requireAuth, updateOrder)
+orderRoutes.put('/:id', requireAuth, updateOrder)
+
 
 // orderRoutes.delete('/:id', removeOrder)
 // router.delete('/:id', requireAuth, requireAdmin, removeCar)

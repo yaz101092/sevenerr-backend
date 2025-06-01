@@ -1233,3 +1233,495 @@
 31.5.2025, 18:07:51 - INFO - /api/gig | GET | {} | {}
 31.5.2025, 18:07:51 - INFO - /api/gig | GET | {} | {}
 31.5.2025, 18:08:01 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 19:07:01 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 19:07:01 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 19:07:01 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 19:08:48 - INFO - server.js loaded...
+31.5.2025, 19:08:48 - INFO - Server is running on port: 3030
+31.5.2025, 19:08:50 - INFO - server.js loaded...
+31.5.2025, 19:08:50 - INFO - Server is running on port: 3030
+31.5.2025, 19:16:00 - INFO - server.js loaded...
+31.5.2025, 19:16:00 - INFO - Server is running on port: 3030
+31.5.2025, 19:16:14 - INFO - server.js loaded...
+31.5.2025, 19:16:14 - INFO - Server is running on port: 3030
+31.5.2025, 19:17:27 - INFO - server.js loaded...
+31.5.2025, 19:17:27 - INFO - Server is running on port: 3030
+31.5.2025, 19:18:21 - DEBUG - auth.service - login with username: demo
+31.5.2025, 19:18:21 - ERROR - Failed to Login Invalid username or password
+31.5.2025, 19:20:58 - DEBUG - auth.service - signup with username: demo, fullname: Demo User
+31.5.2025, 19:20:58 - DEBUG - auth.route - new account created: {"username":"demo","password":"$2b$10$l9d7xw8jjA7WnXKjzIiHkOeL05hvKH6g1QRSzaxxG/w9jV.XjR0Jy","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null,"_id":"683b2c6a7007fb2f9766cbf6"}
+31.5.2025, 19:20:58 - DEBUG - auth.service - login with username: demo
+31.5.2025, 19:20:58 - INFO - User signup: | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 19:21:43 - DEBUG - auth.service - login with username: demo
+31.5.2025, 19:21:43 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 19:27:45 - DEBUG - auth.service - login with username: demo
+31.5.2025, 19:27:45 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 20:00:51 - INFO - server.js loaded...
+31.5.2025, 20:00:51 - INFO - Server is running on port: 3030
+31.5.2025, 20:00:59 - DEBUG - auth.service - login with username: demo
+31.5.2025, 20:00:59 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 20:03:37 - INFO - server.js loaded...
+31.5.2025, 20:03:37 - INFO - Server is running on port: 3030
+31.5.2025, 20:04:08 - DEBUG - auth.service - login with username: demo
+31.5.2025, 20:04:08 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 20:14:22 - INFO - server.js loaded...
+31.5.2025, 20:14:22 - INFO - Server is running on port: 3030
+31.5.2025, 20:16:04 - INFO - server.js loaded...
+31.5.2025, 20:16:04 - INFO - Server is running on port: 3030
+31.5.2025, 20:38:04 - INFO - server.js loaded...
+31.5.2025, 20:38:04 - INFO - Server is running on port: 3030
+31.5.2025, 20:38:04 - INFO - Users collection is not empty. Skipping seeding.
+31.5.2025, 20:42:59 - INFO - server.js loaded...
+31.5.2025, 20:42:59 - INFO - Server is running on port: 3030
+31.5.2025, 20:42:59 - INFO - Users collection is not empty. Skipping seeding.
+31.5.2025, 21:49:00 - DEBUG - auth.service - signup with username: testuser1, fullname: Test User
+31.5.2025, 21:49:00 - DEBUG - auth.route - new account created: {"username":"testuser1","password":"$2b$10$NCR2hhWpJMHP/qudi7ipZ.QpHFpq9wPAXxI4EhaMSEnnzEhraQO1K","fullname":"Test User","imgUrl":"https://i.pravatar.cc/150?u=testuser1","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null,"_id":"683b4f1c841a9ad47dff0efe"}
+31.5.2025, 21:49:00 - DEBUG - auth.service - login with username: testuser1
+31.5.2025, 21:49:00 - INFO - User signup: | {"_id":"683b4f1c841a9ad47dff0efe","username":"testuser1","fullname":"Test User","imgUrl":"https://i.pravatar.cc/150?u=testuser1","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 21:51:45 - DEBUG - auth.service - login with username: testuser1
+31.5.2025, 21:51:45 - INFO - User login:  | {"_id":"683b4f1c841a9ad47dff0efe","username":"testuser1","fullname":"Test User","imgUrl":"https://i.pravatar.cc/150?u=testuser1","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 22:07:11 - INFO - server.js loaded...
+31.5.2025, 22:07:11 - INFO - Server is running on port: 3030
+31.5.2025, 22:07:11 - INFO - Users collection is not empty. Skipping seeding.
+31.5.2025, 22:09:34 - DEBUG - auth.service - login with username: Liel
+31.5.2025, 22:09:34 - ERROR - Failed to Login Invalid username or password
+31.5.2025, 22:10:58 - DEBUG - auth.service - login with username: demo
+31.5.2025, 22:10:59 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 22:11:16 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 22:11:25 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 22:12:08 - DEBUG - auth.service - signup with username: Liel, fullname: Liel Yaakov
+31.5.2025, 22:12:08 - DEBUG - auth.route - new account created: {"username":"Liel","password":"$2b$10$pfurouHYqqaTXsl4VF62jOHxCqyK9sn2kg02p3U.AfNqiNCXw/i6i","fullname":"Liel Yaakov","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null,"_id":"683b5488c3cb5387315e1279"}
+31.5.2025, 22:12:08 - DEBUG - auth.service - login with username: Liel
+31.5.2025, 22:12:08 - INFO - User signup: | {"_id":"683b5488c3cb5387315e1279","username":"Liel","fullname":"Liel Yaakov","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 22:12:19 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 22:13:13 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 23:08:46 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 23:08:56 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 23:08:56 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 23:08:56 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 23:09:01 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a5b"}
+31.5.2025, 23:09:08 - INFO - /api/gig | GET | {} | {}
+31.5.2025, 23:58:34 - DEBUG - auth.service - login with username: Liel
+31.5.2025, 23:58:35 - INFO - User login:  | {"_id":"683b5488c3cb5387315e1279","username":"Liel","fullname":"Liel Yaakov","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+31.5.2025, 23:58:37 - DEBUG - auth.service - login with username: Liel
+31.5.2025, 23:58:37 - INFO - User login:  | {"_id":"683b5488c3cb5387315e1279","username":"Liel","fullname":"Liel Yaakov","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 0:08:52 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:08:52 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:08:52 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:08:58 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a5d"}
+1.6.2025, 0:09:47 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:09:47 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:09:47 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:09:54 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 0:10:17 - DEBUG - auth.service - login with username: demo
+1.6.2025, 0:10:18 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 0:10:24 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:10:29 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:10:30 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:10:30 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:10:33 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a4c"}
+1.6.2025, 0:10:38 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:10:41 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:10:42 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:10:42 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:10:44 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a6e"}
+1.6.2025, 0:10:52 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:12:14 - DEBUG - auth.service - login with username: demo
+1.6.2025, 0:12:14 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 0:12:19 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 0:12:40 - DEBUG - auth.service - login with username: Liel
+1.6.2025, 0:12:41 - INFO - User login:  | {"_id":"683b5488c3cb5387315e1279","username":"Liel","fullname":"Liel Yaakov","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 0:12:44 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 1:44:22 - DEBUG - auth.service - login with username: demo
+1.6.2025, 1:44:22 - ERROR - Failed to Login Invalid username or password
+1.6.2025, 1:44:53 - DEBUG - auth.service - login with username: demo
+1.6.2025, 1:44:53 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 1:45:00 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 1:46:14 - DEBUG - auth.service - login with username: demo
+1.6.2025, 1:46:14 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 1:46:18 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:14:31 - DEBUG - auth.service - login with username: demo
+1.6.2025, 2:14:31 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 2:14:34 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:17:11 - DEBUG - auth.service - login with username: demo
+1.6.2025, 2:17:12 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 2:17:15 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:18:18 - DEBUG - auth.service - login with username: demo
+1.6.2025, 2:18:18 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 2:18:24 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:18:48 - DEBUG - auth.service - login with username: demo
+1.6.2025, 2:18:49 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 2:18:51 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:18:51 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:18:51 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:18:53 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:18:53 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:18:56 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a61"}
+1.6.2025, 2:19:01 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:19:27 - DEBUG - auth.service - login with username: demo
+1.6.2025, 2:19:28 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 2:19:33 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 2:21:11 - DEBUG - auth.service - login with username: demo
+1.6.2025, 2:21:12 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 2:21:16 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:04:23 - DEBUG - auth.service - login with username: demo
+1.6.2025, 4:04:24 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 4:04:34 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:04:34 - INFO - /api/order | GET | {} | {}
+1.6.2025, 4:04:39 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:04:39 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:04:39 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:04:42 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:04:44 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:04:48 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:08:31 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:08:37 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:08:39 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:08:41 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:08:47 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:09:01 - ERROR - Failed to add order | TypeError: Cannot read properties of undefined (reading '_id')
+1.6.2025, 4:09:23 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:09:32 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:10:28 - INFO - server.js loaded...
+1.6.2025, 4:10:28 - INFO - Server is running on port: 3030
+1.6.2025, 4:10:28 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:11:08 - INFO - server.js loaded...
+1.6.2025, 4:11:08 - INFO - Server is running on port: 3030
+1.6.2025, 4:11:08 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:12:37 - INFO - server.js loaded...
+1.6.2025, 4:12:37 - INFO - Server is running on port: 3030
+1.6.2025, 4:12:37 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:12:49 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:12:52 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:17:53 - INFO - server.js loaded...
+1.6.2025, 4:17:53 - INFO - Server is running on port: 3030
+1.6.2025, 4:17:53 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:18:10 - INFO - server.js loaded...
+1.6.2025, 4:18:10 - INFO - Server is running on port: 3030
+1.6.2025, 4:18:10 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:18:15 - INFO - server.js loaded...
+1.6.2025, 4:18:15 - INFO - Server is running on port: 3030
+1.6.2025, 4:18:15 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:18:19 - INFO - server.js loaded...
+1.6.2025, 4:18:20 - INFO - Server is running on port: 3030
+1.6.2025, 4:18:20 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:18:25 - INFO - server.js loaded...
+1.6.2025, 4:18:25 - INFO - Server is running on port: 3030
+1.6.2025, 4:18:25 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:18:28 - INFO - server.js loaded...
+1.6.2025, 4:18:28 - INFO - Server is running on port: 3030
+1.6.2025, 4:18:28 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:19:01 - INFO - server.js loaded...
+1.6.2025, 4:19:01 - INFO - Server is running on port: 3030
+1.6.2025, 4:19:01 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:19:02 - INFO - server.js loaded...
+1.6.2025, 4:19:02 - INFO - Server is running on port: 3030
+1.6.2025, 4:19:02 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:19:29 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:19:31 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:21:20 - INFO - server.js loaded...
+1.6.2025, 4:21:20 - INFO - Server is running on port: 3030
+1.6.2025, 4:21:20 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:21:21 - INFO - server.js loaded...
+1.6.2025, 4:21:21 - INFO - Server is running on port: 3030
+1.6.2025, 4:21:21 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:21:26 - INFO - server.js loaded...
+1.6.2025, 4:21:26 - INFO - Server is running on port: 3030
+1.6.2025, 4:21:26 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:23:04 - INFO - server.js loaded...
+1.6.2025, 4:23:04 - INFO - Server is running on port: 3030
+1.6.2025, 4:23:04 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:23:12 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:23:14 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:25:18 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:25:49 - INFO - server.js loaded...
+1.6.2025, 4:25:49 - INFO - Server is running on port: 3030
+1.6.2025, 4:25:49 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:25:54 - INFO - server.js loaded...
+1.6.2025, 4:25:54 - INFO - Server is running on port: 3030
+1.6.2025, 4:25:54 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:25:56 - INFO - server.js loaded...
+1.6.2025, 4:25:56 - INFO - Server is running on port: 3030
+1.6.2025, 4:25:56 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:26:07 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:26:10 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:26:28 - INFO - server.js loaded...
+1.6.2025, 4:26:28 - INFO - Server is running on port: 3030
+1.6.2025, 4:26:28 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 4:26:47 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:26:56 - INFO - /api/order | GET | {} | {}
+1.6.2025, 4:26:56 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:27:35 - DEBUG - auth.service - login with username: demo
+1.6.2025, 4:27:35 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 4:27:42 - INFO - /api/order | GET | {} | {}
+1.6.2025, 4:27:42 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:27:49 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:27:50 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:27:50 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:27:52 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:27:55 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:28:05 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:28:05 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:28:07 - INFO - /api/order | GET | {} | {}
+1.6.2025, 4:28:08 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:29:46 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:29:46 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:29:58 - DEBUG - auth.service - login with username: demo
+1.6.2025, 4:29:58 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 4:30:03 - INFO - /api/order | GET | {} | {}
+1.6.2025, 4:30:03 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:33:00 - INFO - /api/order | GET | {} | {}
+1.6.2025, 4:33:00 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:33:08 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:33:08 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:33:08 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:33:11 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:33:12 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:33:33 - INFO - /api/order | GET | {} | {}
+1.6.2025, 4:33:33 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:35:49 - DEBUG - auth.service - login with username: demo
+1.6.2025, 4:35:49 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 4:36:01 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:36:01 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:36:01 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 4:36:03 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 4:36:05 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 4:36:13 - INFO - /api/order | GET | {} | {}
+1.6.2025, 4:36:13 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:02:40 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:02:40 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:02:54 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 5:02:56 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 5:03:56 - DEBUG - auth.service - login with username: demo
+1.6.2025, 5:03:56 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 5:04:02 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:04:02 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:04:09 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:04:09 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:04:09 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:04:12 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 5:04:13 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 5:05:06 - ERROR - Failed to add order | ReferenceError: socketService is not defined
+1.6.2025, 5:06:55 - INFO - server.js loaded...
+1.6.2025, 5:06:56 - INFO - Server is running on port: 3030
+1.6.2025, 5:06:56 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:07:05 - INFO - server.js loaded...
+1.6.2025, 5:07:05 - INFO - Server is running on port: 3030
+1.6.2025, 5:07:05 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:07:12 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 5:08:32 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 5:11:37 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:11:42 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:12:28 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:12:59 - DEBUG - auth.service - login with username: demo
+1.6.2025, 5:13:00 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 5:13:03 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:13:03 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:13:04 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:13:06 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a5a"}
+1.6.2025, 5:13:36 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:15:28 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:15:28 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:15:28 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:15:32 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a74"}
+1.6.2025, 5:15:34 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:16:42 - INFO - server.js loaded...
+1.6.2025, 5:16:42 - INFO - Server is running on port: 3030
+1.6.2025, 5:16:42 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:16:45 - INFO - server.js loaded...
+1.6.2025, 5:16:45 - INFO - Server is running on port: 3030
+1.6.2025, 5:16:45 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:16:47 - INFO - server.js loaded...
+1.6.2025, 5:16:47 - INFO - Server is running on port: 3030
+1.6.2025, 5:16:47 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:16:57 - INFO - server.js loaded...
+1.6.2025, 5:16:57 - INFO - Server is running on port: 3030
+1.6.2025, 5:16:57 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:17:00 - INFO - server.js loaded...
+1.6.2025, 5:17:00 - INFO - Server is running on port: 3030
+1.6.2025, 5:17:00 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:17:04 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:17:05 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:17:05 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:17:05 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:17:08 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a61"}
+1.6.2025, 5:17:11 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:17:24 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:17:24 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:17:24 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:17:26 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 5:18:00 - DEBUG - auth.service - login with username: demo
+1.6.2025, 5:18:00 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 5:18:05 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:18:05 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:18:05 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:18:07 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a61"}
+1.6.2025, 5:18:21 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a61"}
+1.6.2025, 5:18:23 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:21:08 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:21:10 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:21:10 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:21:10 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:21:13 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+1.6.2025, 5:21:16 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:21:53 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:21:53 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:21:59 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:21:59 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:21:59 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:22:50 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:22:51 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:23:13 - ERROR - while finding order 683bb91cba04f4ee5db5e1a5 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:23:13 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:23:15 - ERROR - while finding order 683bb91cba04f4ee5db5e1a5 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:23:15 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:23:17 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:23:17 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:23:19 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:23:19 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:23:23 - ERROR - while finding order 683bb91cba04f4ee5db5e1a5 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:23:23 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:23:24 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:23:26 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:25:17 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:25:17 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:25:17 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:25:19 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:25:19 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:25:22 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a42"}
+1.6.2025, 5:25:24 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:25:29 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:25:29 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:25:31 - ERROR - while finding order 683bba14ba04f4ee5db5e1a6 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:25:31 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:25:36 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:31:22 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:31:24 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:31:24 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:31:27 - ERROR - while finding order 683bba14ba04f4ee5db5e1a6 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:31:27 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:31:30 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:31:33 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:33:55 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:33:58 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:33:58 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:34:01 - ERROR - while finding order 683bba14ba04f4ee5db5e1a6 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:34:01 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:34:04 - ERROR - while finding order 683bba14ba04f4ee5db5e1a6 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:34:04 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:34:06 - ERROR - while finding order 683bba14ba04f4ee5db5e1a6 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:34:06 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:37:59 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:37:59 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:38:12 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:38:15 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a42"}
+1.6.2025, 5:38:22 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:38:23 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:38:34 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:38:34 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:39:34 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:39:34 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:42:29 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:42:29 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:42:32 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:42:32 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:42:35 - ERROR - while finding order 683bba14ba04f4ee5db5e1a6 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:42:35 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:44:27 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:44:27 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:44:32 - ERROR - while finding order 683bba14ba04f4ee5db5e1a6 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:44:32 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:46:09 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:46:09 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:46:17 - ERROR - while finding order 683bba14ba04f4ee5db5e1a6 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:46:17 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:48:32 - INFO - server.js loaded...
+1.6.2025, 5:48:32 - INFO - Server is running on port: 3030
+1.6.2025, 5:48:32 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:48:56 - INFO - server.js loaded...
+1.6.2025, 5:48:56 - INFO - Server is running on port: 3030
+1.6.2025, 5:48:56 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:49:27 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:49:27 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:49:54 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:49:54 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:51:17 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:51:17 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:51:25 - INFO - /api/order | GET | {} | {}
+1.6.2025, 5:51:25 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 5:51:30 - ERROR - while finding order 683bba14ba04f4ee5db5e1a6 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:51:30 - ERROR - Failed to update order | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+1.6.2025, 5:57:37 - INFO - server.js loaded...
+1.6.2025, 5:57:37 - INFO - Server is running on port: 3030
+1.6.2025, 5:57:37 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:58:04 - INFO - server.js loaded...
+1.6.2025, 5:58:04 - INFO - Server is running on port: 3030
+1.6.2025, 5:58:04 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:58:09 - INFO - server.js loaded...
+1.6.2025, 5:58:09 - INFO - Server is running on port: 3030
+1.6.2025, 5:58:09 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:58:23 - INFO - server.js loaded...
+1.6.2025, 5:58:24 - INFO - Server is running on port: 3030
+1.6.2025, 5:58:24 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:58:27 - INFO - server.js loaded...
+1.6.2025, 5:58:27 - INFO - Server is running on port: 3030
+1.6.2025, 5:58:27 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:58:30 - INFO - server.js loaded...
+1.6.2025, 5:58:30 - INFO - Server is running on port: 3030
+1.6.2025, 5:58:30 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:59:42 - INFO - server.js loaded...
+1.6.2025, 5:59:42 - INFO - Server is running on port: 3030
+1.6.2025, 5:59:42 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 5:59:55 - INFO - server.js loaded...
+1.6.2025, 5:59:55 - INFO - Server is running on port: 3030
+1.6.2025, 5:59:55 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 6:00:07 - INFO - server.js loaded...
+1.6.2025, 6:00:07 - INFO - Server is running on port: 3030
+1.6.2025, 6:00:07 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 6:00:13 - INFO - server.js loaded...
+1.6.2025, 6:00:13 - INFO - Server is running on port: 3030
+1.6.2025, 6:00:13 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 6:00:20 - INFO - server.js loaded...
+1.6.2025, 6:00:20 - INFO - Server is running on port: 3030
+1.6.2025, 6:00:20 - INFO - Users collection is not empty. Skipping seeding.
+1.6.2025, 6:00:24 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:00:24 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:00:36 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a42"}
+1.6.2025, 6:00:39 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a42"}
+1.6.2025, 6:00:56 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:01:21 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:01:40 - DEBUG - auth.service - login with username: demo
+1.6.2025, 6:01:41 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 6:01:46 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:01:46 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:08:07 - DEBUG - auth.service - login with username: demo
+1.6.2025, 6:08:07 - ERROR - Failed to Login Invalid username or password
+1.6.2025, 6:08:44 - DEBUG - auth.service - login with username: demo
+1.6.2025, 6:08:44 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+1.6.2025, 6:08:49 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:08:49 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:01 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:01 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:02 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:02 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:08 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:08 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:08 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:08 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:23 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:23 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:23 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:29 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a42"}
+1.6.2025, 6:09:31 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:09:37 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:09:37 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:09:41 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:10:01 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:10:01 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:10:04 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:13:40 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:13:47 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:13:48 - INFO - /api/gig | GET | {} | {}
+1.6.2025, 6:13:55 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:14:18 - INFO - /api/order | GET | {} | {}
+1.6.2025, 6:14:18 - INFO - /api/gig | GET | {} | {}

@@ -79,21 +79,36 @@ async function remove(userId) {
 }
 
 async function update(user) {
-    try {
-        // peek only updatable properties
-        const userToSave = {
-            _id: ObjectId.createFromHexString(user._id), // needed for the returnd obj
-            fullname: user.fullname,
-            reviews: user.reviews,
-            isSeller: user.isSeller
-        }
-        const collection = await dbService.getCollection('user')
-        await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
-        return userToSave
-    } catch (err) {
-        logger.error(`cannot update user ${user._id}`, err)
-        throw err
+  try {
+    // כעת כוללים גם את השדה "score" (אם נשלח)
+    const userToSave = {
+      _id: ObjectId.createFromHexString(user._id),
+      // אם יש שדה score ב-body, גם נעדכן אותו:
+      ...(user.score !== undefined && { score: user.score }),
+      // שאר השדות הקיימים (כפי שהיו מקורית):
+      fullname: user.fullname,
+      reviews: user.reviews,
+      isSeller: user.isSeller
     }
+    const collection = await dbService.getCollection('user')
+    await collection.updateOne(
+      { _id: userToSave._id },
+      { $set: userToSave }
+    )
+    // נחזיר את האובייקט כפי ששמור (ללא password)
+    const updated = { 
+      _id: user._id, 
+      fullname: userToSave.fullname,
+      reviews: userToSave.reviews,
+      isSeller: userToSave.isSeller,
+      // אם שדה score נשלח, נחזיר אותו
+      ...(userToSave.score !== undefined && { score: userToSave.score })
+    }
+    return updated
+  } catch (err) {
+    logger.error(`cannot update user ${user._id}`, err)
+    throw err
+  }
 }
 
 async function add(user) {
