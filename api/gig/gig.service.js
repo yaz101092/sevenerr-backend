@@ -6,7 +6,7 @@ import { ObjectId } from 'mongodb'
 // import { PAGE_SIZE } from '../config.js'
 
 export const gigService = {
-	remove,
+	removeById,
 	query,
 	getById,
 	add,
@@ -56,25 +56,27 @@ async function getById(gigId) {
 	}
 }
 
-async function remove(gigId) {
-    const { loggedinUser } = asyncLocalStorage.getStore()
-    const { _id: ownerId, isAdmin } = loggedinUser
 
-	try {
-        const criteria = { 
-            _id: ObjectId.createFromHexString(gigId), 
-        }
-        if(!isAdmin) criteria['owner._id'] = ownerId
-        
-		const collection = await dbService.getCollection('gigs')
-		const res = await collection.deleteOne(criteria)
+async function removeById(gigId, userId, isAdmin) {
+  try {
+    const criteria = { _id: new ObjectId(gigId) }
+    if (!isAdmin) {
+      // אם המשתמש הוא לא Admin, נמחוק רק במידה שמוצאים owner._id תואם
+      criteria['owner._id'] = userId
+    }
 
-        if(res.deletedCount === 0) throw('Not your gig')
-		return gigId
-	} catch (err) {
-		logger.error(`cannot remove gig ${gigId}`, err)
-		throw err
-	}
+    const collection = await dbService.getCollection('gigs')
+    const res = await collection.deleteOne(criteria)
+
+    if (res.deletedCount === 0) {
+      // לא מצאנו את ה-Gig למחיקה או זה לא ה־owner
+      throw new Error('Not authorized to delete gig or gig not found')
+    }
+    return gigId
+  } catch (err) {
+    logger.error(`cannot remove gig ${gigId}`, err)
+    throw err
+  }
 }
 
 async function add(gig) {

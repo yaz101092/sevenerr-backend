@@ -10,7 +10,7 @@ export async function getGigs(req, res) {
       minPrice: req.query.minPrice ? +req.query.minPrice : undefined,
       maxPrice: req.query.maxPrice ? +req.query.maxPrice : undefined,
       deliveryTime: req.query.deliveryTime ? +req.query.deliveryTime :
-             req.query.daysToMake ? +req.query.daysToMake : undefined,
+      req.query.daysToMake ? +req.query.daysToMake : undefined,
       sellerRateFilter: req.query.sellerRateFilter ? +req.query.sellerRateFilter : undefined, // היה sellerRateFilte (חסר r)
       sortField: req.query.sortBy || '',
       sortDir: req.query.sortDir ? +req.query.sortDir : undefined,
@@ -58,32 +58,69 @@ export async function getGigById(req, res) {
 //     res.status(500).send({ err: 'Failed to add gig' })
 //   }
 // }
-export async function addGig(req, res) {
-    const { loggedinUser } = req
+// ב־gig.controller.js
 
-    try {
-        const { category, createdAt, daysToMake, description, imgUrls, likedByUsers, packages, price, tags, title, owner } = req.body
-        const gig = {
-            category,
-            createdAt,
-            daysToMake,
-            description,
-            imgUrls,
-            likedByUsers,
-            owner,
-            packages,
-            price: +price,
-            tags,
-            title
-        }
-        if (!owner || loggedinUser._id !== gig.owner._id) return res.status(500).send({ err: 'Failed to add gig' })
-        const savedGig = await gigService.add(gig)
-        res.send(savedGig)
-    } catch (err) {
-        logger.error('Failed to add gig', err)
-        res.status(500).send({ err: 'Failed to add gig' })
+export async function addGig(req, res) {
+  const { loggedinUser } = req;
+  try {
+    // 1. מקבלים את כל השדות בדיוק כפי שנשלחו מה-frontend
+    const {
+      category,
+      title,
+      about,
+      price,
+      owner,
+      country,
+      daysToMake,
+      description,
+      imgUrl,         // מערך של מחרוזות
+      tags,
+      likedByUsers,
+      reviews
+    } = req.body;
+
+    // 2. מנוע הרשאות: לוודא שה-owner מגיע מ-currentUser
+    if (!owner || loggedinUser._id !== owner._id) {
+      return res
+        .status(403)
+        .send({ err: 'Not allowed to add gig' });
     }
+
+    // 3. בונים את האובייקט בדיוק במפתחות התואמים לדוגמה שלך
+    const gigToInsert = {
+      category: category || 'General',
+      title: title || 'Untitled Gig',
+      about: about || '',               // אם לא נשלח – ריק
+      price: +price || 0,
+      owner: {
+        _id: owner._id,
+        fullname: owner.fullname,
+        imgUrl: owner.imgUrl,
+        level: owner.level || 2,
+        rate: owner.rate || 4.0
+      },
+      country: country || 'Unknown',
+      daysToMake: +daysToMake || 7,
+      description: description || '',
+      imgUrl: Array.isArray(imgUrl) ? imgUrl : [],
+      tags: Array.isArray(tags) ? tags : [],
+      likedByUsers: Array.isArray(likedByUsers) ? likedByUsers : [],
+      reviews: Array.isArray(reviews) ? reviews : []
+      // אין פה שדה packages או שדות נוספים, כדי להשאיר בדיוק את המפתח 
+      // כפי שמופיע בדוגמה שלך.
+    };
+
+    // 4. מבצעים שמירה ב-MongoDB (raw) – dbService.insertOne
+    const savedGig = await gigService.add(gigToInsert);
+    // 5. שולחים בחזרה את ה-savedGig עם אותו מבנה
+    res.json(savedGig);
+
+  } catch (err) {
+    logger.error('Failed to add gig', err);
+    res.status(500).send({ err: 'Failed to add gig' });
+  }
 }
+
 // export async function updateGig(req, res) {
 //   const { loggedinUser } = req
 //   try {
@@ -132,15 +169,23 @@ export async function updateGig(req, res) {
 }
 
 export async function removeGig(req, res) {
-	try {
-		const gigId = req.params.id
-		const removedId = await gigService.remove(gigId)
+  try {
+    const gigId = req.params.id
+    // req.loggedinUser נקבע ע״י requireAuth
+    const { _id: userId, isAdmin } = req.loggedinUser
 
-		res.send(removedId)
-	} catch (err) {
-		logger.error('Failed to remove gig', err)
-		res.status(500).send({ err: 'Failed to remove gig' })
-	}
+    // כאן מעביר את userId ו־isAdmin ישר ל־service
+    await gigService.removeById(gigId, userId, isAdmin)
+
+    // אם הצליח – נחזיר 204
+    res.sendStatus(204)
+  } catch (err) {
+    logger.error('Failed to remove gig', err)
+    if (err.message.includes('Not authorized')) {
+      return res.status(403).send({ err: err.message })
+    }
+    res.status(500).send({ err: 'Failed to remove gig' })
+  }
 }
 
 export async function addGigMsg(req, res) {
