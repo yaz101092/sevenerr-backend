@@ -29,16 +29,23 @@ async function query(filterBy) {
 
 function buildCriteria(filterBy) {
     const criteria = {}
-
-    // You can add any other criteria here if needed.
-
-    // Add the custom filter to the criteria
+    const userId = filterBy.loggedUser._id
+    // אם נקבל role=buyer, נחזיר רק את השתיים שהמשתמש הוא קונה (buyer)
+    if (filterBy.role === 'buyer') {
+        criteria['buyer._id'] = userId
+        return criteria
+    }
+    // אם נקבל role=seller, נחזיר רק את ההזמנות שהמשתמש הוא מוכר (seller)
+    if (filterBy.role === 'seller') {
+        criteria['seller._id'] = userId
+        return criteria
+    }
+    // אם לא קיבלנו role, נחזיר גם buyer וגם seller (ברירת מחדל)
     criteria.$or = [
-        { 'seller._id': filterBy.loggedUser._id },
-        { 'buyer._id': filterBy.loggedUser._id }
+        { 'seller._id': userId },
+        { 'buyer._id': userId }
     ]
-
-    return criteria;
+    return criteria
 }
 
 async function getById(orderId) {

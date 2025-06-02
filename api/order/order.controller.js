@@ -4,8 +4,9 @@ import { logger } from '../../services/logger.service.js'
 
 export async function getOrders(req, res) {
     const { loggedinUser } = req
+    const role = req.query.role
     try {
-        const orders = await orderService.query({ loggedUser: loggedinUser })
+         const orders = await orderService.query({ loggedUser: loggedinUser, role })
         res.send(orders)
     }
     catch (err) {

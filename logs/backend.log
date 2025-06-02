@@ -1725,3 +1725,167 @@
 1.6.2025, 6:13:55 - INFO - /api/order | GET | {} | {}
 1.6.2025, 6:14:18 - INFO - /api/order | GET | {} | {}
 1.6.2025, 6:14:18 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 3:37:46 - INFO - /api/order | GET | {} | {}
+2.6.2025, 3:37:46 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 3:37:58 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:09:31 - INFO - server.js loaded...
+2.6.2025, 4:09:31 - INFO - Server is running on port: 3030
+2.6.2025, 4:09:31 - INFO - Users collection is not empty. Skipping seeding.
+2.6.2025, 4:09:42 - INFO - server.js loaded...
+2.6.2025, 4:09:42 - INFO - Server is running on port: 3030
+2.6.2025, 4:09:42 - INFO - Users collection is not empty. Skipping seeding.
+2.6.2025, 4:11:30 - INFO - server.js loaded...
+2.6.2025, 4:11:30 - INFO - Server is running on port: 3030
+2.6.2025, 4:11:30 - INFO - Users collection is not empty. Skipping seeding.
+2.6.2025, 4:12:53 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:13:22 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:14:37 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:15:35 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:15:52 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:16:04 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:16:04 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:16:11 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:16:37 - DEBUG - auth.service - login with username: Liel
+2.6.2025, 4:16:37 - INFO - User login:  | {"_id":"683b5488c3cb5387315e1279","username":"Liel","fullname":"Liel Yaakov","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+2.6.2025, 4:16:41 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:16:41 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:16:51 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:17:03 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:17:03 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:17:12 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a4b"}
+2.6.2025, 4:17:14 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:17:26 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:17:26 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:17:38 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:17:38 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:17:38 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:17:41 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:17:41 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:17:47 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:17:47 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:17:47 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:17:50 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:17:50 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:04 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:04 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:05 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:09 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:18:09 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:20 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:20 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:21 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:24 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a56"}
+2.6.2025, 4:18:26 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:18:30 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:18:30 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:47 - DEBUG - auth.service - login with username: demo
+2.6.2025, 4:18:47 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+2.6.2025, 4:18:50 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:18:50 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:18:53 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:18:53 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:19:06 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:19:22 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:19:22 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:19:22 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:19:51 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a56"}
+2.6.2025, 4:28:12 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:28:12 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:28:50 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:28:58 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:29:01 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:29:01 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:29:23 - DEBUG - auth.service - login with username: Liel
+2.6.2025, 4:29:23 - INFO - User login:  | {"_id":"683b5488c3cb5387315e1279","username":"Liel","fullname":"Liel Yaakov","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+2.6.2025, 4:29:26 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:29:26 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:29:39 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:30:06 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:30:06 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:33:46 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:33:50 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:33:55 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:33:55 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:33:58 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:33:59 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:34:00 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:34:19 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:34:22 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:34:22 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:34:22 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:34:24 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:34:24 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:34:24 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:34:30 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:35:23 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:35:36 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:35:36 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:35:36 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:35:54 - DEBUG - auth.service - login with username: demo
+2.6.2025, 4:35:55 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+2.6.2025, 4:35:55 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:36:01 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:36:01 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:36:15 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:36:15 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:36:36 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:36:36 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:36:36 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:36:41 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:36:46 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:36:46 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:36:46 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:36:47 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:36:47 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:36:47 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:37:36 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a61"}
+2.6.2025, 4:37:39 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:37:39 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:37:45 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:37:45 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:37:51 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:37:51 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:37:51 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:38:05 - DEBUG - auth.service - login with username: Liel
+2.6.2025, 4:38:05 - INFO - User login:  | {"_id":"683b5488c3cb5387315e1279","username":"Liel","fullname":"Liel Yaakov","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+2.6.2025, 4:38:05 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:38:10 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:38:10 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:38:27 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:38:27 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:39:45 - DEBUG - auth.service - login with username: demo
+2.6.2025, 4:39:46 - INFO - User login:  | {"_id":"683b2c6a7007fb2f9766cbf6","username":"demo","fullname":"Demo User","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+2.6.2025, 4:39:46 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:39:52 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:39:52 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:40:02 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:40:02 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:40:02 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:40:13 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:40:13 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:44:59 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:03 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:04 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:08 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:27 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:28 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:32 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:32 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:32 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:34 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:34 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:34 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:39 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:39 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:46 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:48 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:49 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:51 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:51 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:51 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:53 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:45:58 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:58 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:45:58 - INFO - /api/gig | GET | {} | {}
+2.6.2025, 4:46:01 - INFO - /api/order | GET | {} | {}
+2.6.2025, 4:46:05 - INFO - /api/order | GET | {} | {}
