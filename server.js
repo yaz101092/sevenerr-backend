@@ -145,18 +145,18 @@ async function _seedDemoUsersIfNeeded() {
     // 3. הגדרת המשתמשים הקבועים להוספה
     const usersToSeed = [
       {
-        username: 'demo1',
-        password: 'Demo1234',
-        fullname: 'Demo User One',
+        username: 'yaz',
+        password: 'Aa123456',
+        fullname: 'Yazan Meray',
         imgUrl:
-          'https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png'
+          '/img/yazanprofileimg.png'
       },
       {
-        username: 'demo2',
-        password: 'Demo1234',
-        fullname: 'Demo User Two',
+        username: 'liel',
+        password: '123456Ss',
+        fullname: 'Liel Yaakov',
         imgUrl:
-          'https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png'
+          '/img/lielprofile.jpg'
       }
     ]
 

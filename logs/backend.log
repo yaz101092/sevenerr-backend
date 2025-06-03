@@ -2295,3 +2295,144 @@
 3.6.2025, 1:33:02 - INFO - server.js loaded...
 3.6.2025, 1:33:02 - INFO - Server is running on port: 3030
 3.6.2025, 1:33:02 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 2:16:31 - INFO - server.js loaded...
+3.6.2025, 2:16:31 - INFO - Server is running on port: 3030
+3.6.2025, 2:16:31 - INFO - Seeding two default users (demo1, demo2)...
+3.6.2025, 2:16:31 - DEBUG - auth.service - signup with username: demo1, fullname: Demo User One
+3.6.2025, 2:16:31 - INFO - Created user: demo1
+3.6.2025, 2:16:31 - DEBUG - auth.service - signup with username: demo2, fullname: Demo User Two
+3.6.2025, 2:16:31 - INFO - Created user: demo2
+3.6.2025, 2:16:31 - INFO - Seeding completed.
+3.6.2025, 2:16:33 - INFO - server.js loaded...
+3.6.2025, 2:16:33 - INFO - Server is running on port: 3030
+3.6.2025, 2:16:33 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 2:18:59 - INFO - server.js loaded...
+3.6.2025, 2:18:59 - ERROR - Cannot Connect to DB | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:18:59 - ERROR - cannot find users | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:18:59 - ERROR - Failed to get Mongo collection | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:18:59 - ERROR - Error during seeding: | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:18:59 - INFO - Server is running on port: 3030
+3.6.2025, 2:21:25 - INFO - server.js loaded...
+3.6.2025, 2:21:25 - ERROR - Cannot Connect to DB | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:21:25 - ERROR - Failed to get Mongo collection | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:21:25 - ERROR - Error during seeding: | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:21:25 - ERROR - cannot find users | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:21:25 - INFO - Server is running on port: 3030
+3.6.2025, 2:26:24 - INFO - server.js loaded...
+3.6.2025, 2:26:24 - ERROR - Failed to get Mongo collection | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:26:24 - ERROR - Cannot Connect to DB | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:26:24 - ERROR - cannot find users | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:26:24 - ERROR - Error during seeding: | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+3.6.2025, 2:26:24 - INFO - Server is running on port: 3030
+3.6.2025, 2:29:37 - INFO - server.js loaded...
+3.6.2025, 2:29:37 - INFO - Server is running on port: 3030
+3.6.2025, 2:29:39 - INFO - Seeding two default users (demo1, demo2)...
+3.6.2025, 2:29:39 - DEBUG - auth.service - signup with username: demo1, fullname: Demo User One
+3.6.2025, 2:29:39 - INFO - Created user: demo1
+3.6.2025, 2:29:39 - DEBUG - auth.service - signup with username: demo2, fullname: Demo User Two
+3.6.2025, 2:29:39 - INFO - Created user: demo2
+3.6.2025, 2:29:39 - INFO - Seeding completed.
+3.6.2025, 2:31:47 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:31:47 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:31:48 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:31:52 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:31:52 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:32:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:32:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:33:08 - INFO - server.js loaded...
+3.6.2025, 2:33:08 - INFO - Server is running on port: 3030
+3.6.2025, 2:33:10 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 2:33:34 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:33:34 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:33:34 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:33:46 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:33:46 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:33:47 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:39:05 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:39:05 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:39:18 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:43:01 - INFO - server.js loaded...
+3.6.2025, 2:43:01 - INFO - Server is running on port: 3030
+3.6.2025, 2:43:02 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 2:43:14 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:43:14 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:45:24 - INFO - server.js loaded...
+3.6.2025, 2:45:24 - INFO - Server is running on port: 3030
+3.6.2025, 2:45:25 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 2:45:35 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:45:35 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:47:55 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:47:55 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:49:16 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:49:16 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:49:16 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:49:18 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:49:18 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:49:49 - DEBUG - auth.service - login with username: Liel
+3.6.2025, 2:49:49 - ERROR - Failed to Login Invalid username or password
+3.6.2025, 2:50:12 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 2:50:12 - ERROR - Failed to Login Invalid username or password
+3.6.2025, 2:50:42 - DEBUG - auth.service - login with username: demo
+3.6.2025, 2:50:42 - ERROR - Failed to Login Invalid username or password
+3.6.2025, 2:51:41 - DEBUG - auth.service - signup with username: yaz, fullname: yazan meray
+3.6.2025, 2:51:41 - DEBUG - auth.route - new account created: {"username":"yaz","password":"$2b$10$iJrfB.a.BMg4CYv4q7wte.cATlK.GYqjVIvcN0SCIy7SqkeuoG4rG","fullname":"yazan meray","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null,"_id":"683e390dc361497d93c54d26"}
+3.6.2025, 2:51:41 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 2:51:42 - INFO - User signup: | {"_id":"683e390dc361497d93c54d26","username":"yaz","fullname":"yazan meray","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 2:51:42 - INFO - /api/order | GET | {} | {}
+3.6.2025, 2:52:16 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:52:16 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:52:16 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:52:21 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a69"}
+3.6.2025, 2:52:23 - INFO - /api/order | GET | {} | {}
+3.6.2025, 2:52:24 - INFO - /api/order | GET | {} | {}
+3.6.2025, 2:53:29 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:53:29 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:53:29 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 2:54:19 - INFO - /api/order | GET | {} | {}
+3.6.2025, 2:54:20 - INFO - /api/order | GET | {} | {}
+3.6.2025, 2:54:20 - INFO - /api/order | GET | {} | {}
+3.6.2025, 2:54:20 - INFO - /api/order | GET | {} | {}
+3.6.2025, 2:54:23 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:08:03 - INFO - /api/gig | GET | {"username":"yazan123","password":"P@ssword1"} | {}
+3.6.2025, 3:09:56 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:09:57 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:21:14 - INFO - server.js loaded...
+3.6.2025, 3:21:14 - INFO - Server is running on port: 3030
+3.6.2025, 3:21:15 - INFO - Seeding two default users (demo1, demo2)...
+3.6.2025, 3:21:15 - DEBUG - auth.service - signup with username: yaz, fullname: Yazan Meray
+3.6.2025, 3:21:15 - INFO - Created user: yaz
+3.6.2025, 3:21:15 - DEBUG - auth.service - signup with username: liel, fullname: Liel Yaakov
+3.6.2025, 3:21:16 - INFO - Created user: liel
+3.6.2025, 3:21:16 - INFO - Seeding completed.
+3.6.2025, 3:34:16 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 3:34:16 - INFO - User login:  | {"_id":"683e3ffba088b4bcf7a49c26","username":"yaz","fullname":"Yazan Meray","imgUrl":"img/yazanprofileimg.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 3:34:16 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:34:20 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:34:21 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 3:35:13 - DEBUG - auth.service - login with username: liel
+3.6.2025, 3:35:13 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"img/lielprofile.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 3:35:13 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:35:17 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:35:17 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 3:35:32 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:35:33 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:35:33 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 3:42:35 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 3:42:36 - INFO - User login:  | {"_id":"683e3ffba088b4bcf7a49c26","username":"yaz","fullname":"Yazan Meray","imgUrl":"img/yazanprofileimg.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 3:42:36 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:42:41 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:42:41 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 3:43:08 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:43:08 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:43:08 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 3:47:59 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:48:02 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:48:04 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:48:30 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 3:48:30 - INFO - User login:  | {"_id":"683e3ffba088b4bcf7a49c26","username":"yaz","fullname":"Yazan Meray","imgUrl":"img/yazanprofileimg.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 3:48:30 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:48:34 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:48:34 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 3:48:36 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:48:36 - INFO - /api/order | GET | {} | {}
+3.6.2025, 3:48:36 - INFO - /api/gig | GET | {} | {}

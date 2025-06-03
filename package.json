@@ -19,9 +19,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --env-file=.env server.js",
+    "start": "node -r dotenv/config server.js",
     "dev": "nodemon server.js",
-    "server:prod": "set NODE_ENV=production&node server.js"
+    "server:prod": "set NODE_ENV=production&& node -r dotenv/config server.js"
   },
   "keywords": [],
   "author": "sevenerr",
