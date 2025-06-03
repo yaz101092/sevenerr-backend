@@ -4042,3 +4042,7 @@
 3.6.2025, 22:35:03 - INFO - /api/gig | GET | {} | {}
 3.6.2025, 22:35:04 - INFO - /api/gig | GET | {} | {}
 3.6.2025, 22:35:04 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:41:30 - INFO - server.js loaded...
+3.6.2025, 22:41:30 - INFO - Server is running on port: 3030
+3.6.2025, 22:41:31 - INFO - New connected socket [id: FrtiCqIi_BIMIx23AAAB]
+3.6.2025, 22:41:32 - INFO - Users collection is not empty. Skipping seeding.
