@@ -143,34 +143,34 @@ async function _seedDemoUsersIfNeeded() {
     logger.info('Seeding two default users (demo1, demo2)...')
 
     // 3. הגדרת המשתמשים הקבועים להוספה
-    const usersToSeed = [
-      {
-        username: 'yaz',
-        password: 'Aa123456',
-        fullname: 'Yazan Meray',
-        imgUrl:
-          '/img/yazanprofileimg.png'
-      },
-      {
-        username: 'liel',
-        password: '123456Ss',
-        fullname: 'Liel Yaakov',
-        imgUrl:
-          '/img/lielprofile.jpg'
-      }
-    ]
+    // const usersToSeed = [
+    //   {
+    //     username: 'yaz',
+    //     password: 'Aa123456',
+    //     fullname: 'Yazan Meray',
+    //     imgUrl:
+    //       '/img/yazanprofileimg.png'
+    //   },
+    //   {
+    //     username: 'liel',
+    //     password: '123456Ss',
+    //     fullname: 'Liel Yaakov',
+    //     imgUrl:
+    //       '/img/lielprofile.jpg'
+    //   }
+    // ]
 
     // 4. מוסיפים כל משתמש בעזרת authService.signup (שיבצע hashing לסיסמא)
-    for (const usr of usersToSeed) {
-      try {
-        await authService.signup(usr)
-        logger.info(`Created user: ${usr.username}`)
-      } catch (err) {
-        logger.error(
-          `Failed to create user ${usr.username}: ${err.message}`
-        )
-      }
-    }
+    // for (const usr of usersToSeed) {
+    //   try {
+    //     await authService.signup(usr)
+    //     logger.info(`Created user: ${usr.username}`)
+    //   } catch (err) {
+    //     logger.error(
+    //       `Failed to create user ${usr.username}: ${err.message}`
+    //     )
+    //   }
+    // }
     logger.info('Seeding completed.')
   } catch (err) {
     logger.error('Error during seeding:', err)

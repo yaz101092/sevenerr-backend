@@ -34,6 +34,7 @@ async function query(filterBy = {}) {
 		// }
 
 		const gigs = await gigCursor.toArray()
+		console.log("gigs:" , gigs)
 		return gigs
 	} catch (err) {
 		logger.error('cannot find gigs', err)

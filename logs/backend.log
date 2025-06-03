@@ -2436,3 +2436,89 @@
 3.6.2025, 3:48:36 - INFO - /api/order | GET | {} | {}
 3.6.2025, 3:48:36 - INFO - /api/order | GET | {} | {}
 3.6.2025, 3:48:36 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 14:30:38 - INFO - server.js loaded...
+3.6.2025, 14:30:38 - INFO - Server is running on port: 3030
+3.6.2025, 14:30:38 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 14:30:42 - INFO - server.js loaded...
+3.6.2025, 14:30:42 - INFO - Server is running on port: 3030
+3.6.2025, 14:30:42 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 14:32:50 - INFO - server.js loaded...
+3.6.2025, 14:32:50 - INFO - Server is running on port: 3030
+3.6.2025, 14:32:50 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 14:33:42 - INFO - server.js loaded...
+3.6.2025, 14:33:43 - INFO - Server is running on port: 3030
+3.6.2025, 14:33:44 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 14:33:53 - ERROR - while finding user by id: 683c5410e7c8baa62405cfe3 | TypeError: Cannot convert undefined or null to object
+3.6.2025, 14:33:53 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object
+3.6.2025, 14:33:53 - INFO - /api/order | GET | {} | {}
+3.6.2025, 14:34:00 - ERROR - while finding user by id: 683c5410e7c8baa62405cfe3 | TypeError: Cannot convert undefined or null to object
+3.6.2025, 14:34:00 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object
+3.6.2025, 14:34:00 - INFO - /api/order | GET | {} | {}
+3.6.2025, 14:34:06 - INFO - /api/order | GET | {} | {}
+3.6.2025, 14:34:06 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:18:36 - INFO - server.js loaded...
+3.6.2025, 15:18:36 - INFO - Server is running on port: 3030
+3.6.2025, 15:18:37 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 15:19:33 - DEBUG - auth.service - login with username: liel
+3.6.2025, 15:19:33 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"img/lielprofile.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 15:19:33 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:33:17 - INFO - server.js loaded...
+3.6.2025, 15:33:17 - INFO - Server is running on port: 3030
+3.6.2025, 15:33:18 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 15:41:15 - INFO - server.js loaded...
+3.6.2025, 15:41:15 - INFO - Server is running on port: 3030
+3.6.2025, 15:41:15 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 15:41:23 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:41:23 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:41:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:41:31 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:41:31 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:41:49 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 15:41:49 - INFO - User login:  | {"_id":"683c5410e7c8baa62405cfe3","username":"yaz","fullname":"yazan meray","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1748784134/slvrajbfvlviyf18vzzz.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 15:41:49 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:42:07 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:42:07 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:42:07 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:42:53 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:42:53 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:42:56 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:42:57 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:42:57 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:44:25 - DEBUG - auth.service - login with username: Liel
+3.6.2025, 15:44:25 - INFO - User login:  | {"_id":"683b5488c3cb5387315e1279","username":"Liel","fullname":"Liel Yaakov","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 15:44:25 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:46:16 - INFO - server.js loaded...
+3.6.2025, 15:46:16 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 15:46:16 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 15:46:16 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 15:46:16 - ERROR - Error during seeding: | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 15:46:16 - INFO - Server is running on port: 3030
+3.6.2025, 15:47:02 - INFO - server.js loaded...
+3.6.2025, 15:47:02 - INFO - Server is running on port: 3030
+3.6.2025, 15:47:03 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 15:47:20 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:47:20 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:47:23 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:47:24 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:47:25 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:47:39 - DEBUG - auth.service - login with username: liel
+3.6.2025, 15:47:40 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"img/lielprofile.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 15:47:40 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:51:47 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:52:07 - DEBUG - auth.service - login with username: liel
+3.6.2025, 15:52:07 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 15:52:07 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:52:11 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:52:12 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:52:15 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:52:15 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:52:16 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:52:27 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:52:27 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:52:28 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:52:30 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a69"}
+3.6.2025, 15:52:40 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a69"}
+3.6.2025, 15:52:55 - INFO - /api/order | GET | {} | {}
+3.6.2025, 15:52:57 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:52:57 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 15:52:57 - INFO - /api/gig | GET | {} | {}
