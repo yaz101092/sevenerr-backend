@@ -43,7 +43,8 @@ if (process.env.NODE_ENV === 'production') {
       'http://127.0.0.1:3030',
       'http://localhost:3030',
       'http://127.0.0.1:3000',
-      'http://localhost:3000'
+      'http://localhost:3000',
+      'https://sevenerr.onrender.com'
     ],
     credentials: true
   }
