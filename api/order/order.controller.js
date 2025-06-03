@@ -1,6 +1,6 @@
 import { orderService } from './order.service.js'
 import { logger } from '../../services/logger.service.js'
-// import { socketService } from '../../services/socket.service.js'
+import { socketService } from '../../services/socket.service.js'
 
 export async function getOrders(req, res) {
     const { loggedinUser } = req
@@ -54,6 +54,13 @@ export async function addOrder(req, res) {
 
         const savedOrder = await orderService.add(order)
         // socketService.emitToUser({ type: 'order-added', data: savedOrder, userId: savedOrder.seller._id })
+
+        socketService.emitToUser({
+         type: 'order-added',
+         data: savedOrder,
+         userId: savedOrder.seller._id
+       })
+
         res.send(savedOrder)
     } catch (err) {
         logger.error('Failed to add order', err)
@@ -71,6 +78,13 @@ export async function updateOrder(req, res) {
         // עדכן רק את השדות הרלוונטיים
         Object.assign(order, updateFields)
         const savedOrder = await orderService.update(order)
+
+        socketService.emitToUser({
+         type: 'order-status-updated',
+         data: savedOrder,
+         userId: savedOrder.buyer._id
+       })
+
         res.send(savedOrder)
     } catch (err) {
         logger.error('Failed to update order', err)

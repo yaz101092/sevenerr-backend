@@ -2522,3 +2522,1523 @@
 3.6.2025, 15:52:57 - INFO - /api/gig | GET | {} | {}
 3.6.2025, 15:52:57 - INFO - /api/gig | GET | {} | {}
 3.6.2025, 15:52:57 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 19:20:45 - INFO - server.js loaded...
+3.6.2025, 19:20:45 - INFO - Server is running on port: 3030
+3.6.2025, 19:20:45 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:20:48 - INFO - New connected socket [id: lhgEO84r3kyFZ5V3AAAB]
+3.6.2025, 19:20:48 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: lhgEO84r3kyFZ5V3AAAB]
+3.6.2025, 19:20:50 - INFO - New connected socket [id: kp728QtEIcHWVjUTAAAD]
+3.6.2025, 19:20:50 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: kp728QtEIcHWVjUTAAAD]
+3.6.2025, 19:22:34 - INFO - server.js loaded...
+3.6.2025, 19:22:34 - INFO - Server is running on port: 3030
+3.6.2025, 19:22:34 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:22:34 - INFO - New connected socket [id: 7vKEZWPABwNhsP9VAAAB]
+3.6.2025, 19:22:34 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: 7vKEZWPABwNhsP9VAAAB]
+3.6.2025, 19:22:35 - INFO - New connected socket [id: VSzDlhc9u55KJ5WMAAAD]
+3.6.2025, 19:22:35 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: VSzDlhc9u55KJ5WMAAAD]
+3.6.2025, 19:24:24 - INFO - server.js loaded...
+3.6.2025, 19:24:24 - INFO - Server is running on port: 3030
+3.6.2025, 19:24:24 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:24:24 - INFO - New connected socket [id: TM2-zqhb8EbaMjjLAAAB]
+3.6.2025, 19:24:24 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: TM2-zqhb8EbaMjjLAAAB]
+3.6.2025, 19:24:25 - INFO - server.js loaded...
+3.6.2025, 19:24:25 - INFO - Server is running on port: 3030
+3.6.2025, 19:24:25 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:24:25 - INFO - New connected socket [id: m40dbxQ7FgnSUu3_AAAB]
+3.6.2025, 19:24:25 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: m40dbxQ7FgnSUu3_AAAB]
+3.6.2025, 19:24:26 - INFO - New connected socket [id: WVxyKeKjplEqizQLAAAD]
+3.6.2025, 19:24:26 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: WVxyKeKjplEqizQLAAAD]
+3.6.2025, 19:24:32 - INFO - server.js loaded...
+3.6.2025, 19:24:32 - INFO - Server is running on port: 3030
+3.6.2025, 19:24:32 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:24:32 - INFO - New connected socket [id: tCJxP2LTH7wzQ6hXAAAB]
+3.6.2025, 19:24:32 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: tCJxP2LTH7wzQ6hXAAAB]
+3.6.2025, 19:24:33 - INFO - New connected socket [id: WSaAeq_TS44AXP0hAAAD]
+3.6.2025, 19:24:33 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: WSaAeq_TS44AXP0hAAAD]
+3.6.2025, 19:24:37 - INFO - server.js loaded...
+3.6.2025, 19:24:37 - INFO - Server is running on port: 3030
+3.6.2025, 19:24:37 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:24:37 - INFO - New connected socket [id: B0aw_l4t7QG_zB8MAAAB]
+3.6.2025, 19:24:37 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: B0aw_l4t7QG_zB8MAAAB]
+3.6.2025, 19:24:38 - INFO - New connected socket [id: xajbEdSzMR20_VhMAAAD]
+3.6.2025, 19:24:38 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: xajbEdSzMR20_VhMAAAD]
+3.6.2025, 19:25:05 - INFO - server.js loaded...
+3.6.2025, 19:25:05 - INFO - Server is running on port: 3030
+3.6.2025, 19:25:05 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:25:05 - INFO - New connected socket [id: QPdt_kgf0SbNNlejAAAB]
+3.6.2025, 19:25:05 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: QPdt_kgf0SbNNlejAAAB]
+3.6.2025, 19:25:06 - INFO - server.js loaded...
+3.6.2025, 19:25:06 - INFO - Server is running on port: 3030
+3.6.2025, 19:25:06 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:25:06 - INFO - New connected socket [id: uWcUgsiI3zylvVx6AAAB]
+3.6.2025, 19:25:06 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: uWcUgsiI3zylvVx6AAAB]
+3.6.2025, 19:25:15 - INFO - server.js loaded...
+3.6.2025, 19:25:15 - INFO - Server is running on port: 3030
+3.6.2025, 19:25:15 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:25:17 - INFO - New connected socket [id: dBssT8MMyK5-w-7xAAAB]
+3.6.2025, 19:25:17 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: dBssT8MMyK5-w-7xAAAB]
+3.6.2025, 19:25:19 - INFO - New connected socket [id: 8ZCWqKCCas2H8icnAAAD]
+3.6.2025, 19:25:19 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: 8ZCWqKCCas2H8icnAAAD]
+3.6.2025, 19:25:20 - INFO - server.js loaded...
+3.6.2025, 19:25:20 - INFO - Server is running on port: 3030
+3.6.2025, 19:25:20 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:25:21 - INFO - New connected socket [id: y5nAKaXIopA-EbylAAAC]
+3.6.2025, 19:25:21 - INFO - New connected socket [id: bAmhW2CGD4kDu4GyAAAD]
+3.6.2025, 19:25:21 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: y5nAKaXIopA-EbylAAAC]
+3.6.2025, 19:25:21 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: bAmhW2CGD4kDu4GyAAAD]
+3.6.2025, 19:26:06 - INFO - server.js loaded...
+3.6.2025, 19:26:06 - INFO - Server is running on port: 3030
+3.6.2025, 19:26:06 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 19:26:07 - INFO - New connected socket [id: 62xyp8HfUN5QeSzmAAAC]
+3.6.2025, 19:26:07 - INFO - New connected socket [id: qziNx_c6vziC3Yr_AAAD]
+3.6.2025, 19:26:07 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: 62xyp8HfUN5QeSzmAAAC]
+3.6.2025, 19:26:07 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: qziNx_c6vziC3Yr_AAAD]
+3.6.2025, 19:30:16 - INFO - /api/gig | POST | {"username":"yazan123","password":"P@ssword1"} | {}
+3.6.2025, 19:39:22 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:43:09 - INFO - New connected socket [id: sKPZTm99Rx6_y5NpAAAF]
+3.6.2025, 19:43:09 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: sKPZTm99Rx6_y5NpAAAF]
+3.6.2025, 19:43:11 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:43:42 - INFO - New connected socket [id: ZsZ-vj6KdXcEak2fAAAH]
+3.6.2025, 19:43:42 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:43:42 - INFO - New connected socket [id: dZLygjpOJiJqJtAEAAAJ]
+3.6.2025, 19:43:42 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: dZLygjpOJiJqJtAEAAAJ]
+3.6.2025, 19:45:33 - INFO - Removing socket.userId for socket [id: dZLygjpOJiJqJtAEAAAJ]
+3.6.2025, 19:45:33 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:45:46 - INFO - New connected socket [id: pJGtCPpWT2ojt3ABAAAL]
+3.6.2025, 19:45:46 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: pJGtCPpWT2ojt3ABAAAL]
+3.6.2025, 19:46:17 - INFO - Removing socket.userId for socket [id: pJGtCPpWT2ojt3ABAAAL]
+3.6.2025, 19:46:17 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:46:33 - INFO - New connected socket [id: zbGDXstpTOUN_r9SAAAN]
+3.6.2025, 19:46:33 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: zbGDXstpTOUN_r9SAAAN]
+3.6.2025, 19:50:19 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:50:19 - INFO - New connected socket [id: NIexvAPKvub28SBpAAAP]
+3.6.2025, 19:50:19 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: NIexvAPKvub28SBpAAAP]
+3.6.2025, 19:50:19 - INFO - Removing socket.userId for socket [id: NIexvAPKvub28SBpAAAP]
+3.6.2025, 19:50:19 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:50:19 - INFO - New connected socket [id: jNSApCKyVUJlmaKZAAAR]
+3.6.2025, 19:50:19 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: jNSApCKyVUJlmaKZAAAR]
+3.6.2025, 19:51:19 - INFO - Removing socket.userId for socket [id: jNSApCKyVUJlmaKZAAAR]
+3.6.2025, 19:51:19 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:51:32 - INFO - New connected socket [id: O_AXgEWAMduM6mWQAAAT]
+3.6.2025, 19:51:32 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: O_AXgEWAMduM6mWQAAAT]
+3.6.2025, 19:51:43 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:51:43 - INFO - New connected socket [id: ecN39We5j0ol_1KEAAAV]
+3.6.2025, 19:51:43 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: ecN39We5j0ol_1KEAAAV]
+3.6.2025, 19:51:43 - INFO - Removing socket.userId for socket [id: ecN39We5j0ol_1KEAAAV]
+3.6.2025, 19:51:43 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:51:43 - INFO - New connected socket [id: rkV_jqanPbewHtwyAAAX]
+3.6.2025, 19:51:43 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: rkV_jqanPbewHtwyAAAX]
+3.6.2025, 19:53:59 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:53:59 - INFO - New connected socket [id: RGhVslqhiCawrmv7AAAZ]
+3.6.2025, 19:53:59 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: RGhVslqhiCawrmv7AAAZ]
+3.6.2025, 19:53:59 - INFO - Removing socket.userId for socket [id: RGhVslqhiCawrmv7AAAZ]
+3.6.2025, 19:53:59 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:53:59 - INFO - New connected socket [id: 66rgZQRy96b9pwcWAAAb]
+3.6.2025, 19:53:59 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: 66rgZQRy96b9pwcWAAAb]
+3.6.2025, 19:54:03 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:54:03 - INFO - New connected socket [id: ZPrOao1P5QuDMmdkAAAd]
+3.6.2025, 19:54:03 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: ZPrOao1P5QuDMmdkAAAd]
+3.6.2025, 19:54:03 - INFO - Removing socket.userId for socket [id: ZPrOao1P5QuDMmdkAAAd]
+3.6.2025, 19:54:03 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:54:03 - INFO - New connected socket [id: Zuzz2Wkqpfj3-3nhAAAf]
+3.6.2025, 19:54:03 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: Zuzz2Wkqpfj3-3nhAAAf]
+3.6.2025, 19:57:35 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:57:42 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:57:42 - INFO - New connected socket [id: G2TsTvYxpK8jrmC-AAAi]
+3.6.2025, 19:57:42 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: G2TsTvYxpK8jrmC-AAAi]
+3.6.2025, 19:57:44 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:57:44 - INFO - New connected socket [id: q1VVOPIgYZX04_hNAAAk]
+3.6.2025, 19:57:44 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: q1VVOPIgYZX04_hNAAAk]
+3.6.2025, 19:57:44 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:57:44 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: YzsdjhuAX6w3ha2TAAAm]
+3.6.2025, 19:57:44 - INFO - New connected socket [id: YzsdjhuAX6w3ha2TAAAm]
+3.6.2025, 19:57:55 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:57:55 - INFO - New connected socket [id: VojiNz7-uyRf1DSmAAAo]
+3.6.2025, 19:57:55 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: VojiNz7-uyRf1DSmAAAo]
+3.6.2025, 19:57:55 - INFO - Removing socket.userId for socket [id: VojiNz7-uyRf1DSmAAAo]
+3.6.2025, 19:57:55 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:57:55 - INFO - New connected socket [id: AmlWBXW-A0KVfOQ-AAAq]
+3.6.2025, 19:57:55 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: AmlWBXW-A0KVfOQ-AAAq]
+3.6.2025, 19:57:57 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:57:58 - INFO - New connected socket [id: PXxmgamtku_9R9WNAAAs]
+3.6.2025, 19:57:58 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: PXxmgamtku_9R9WNAAAs]
+3.6.2025, 19:58:13 - INFO - Socket disconnected [id: undefined]
+3.6.2025, 19:58:13 - INFO - New connected socket [id: 8NDTCNQloVXHCP8pAAAv]
+3.6.2025, 19:58:13 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: 8NDTCNQloVXHCP8pAAAv]
+3.6.2025, 20:04:17 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 20:04:17 - INFO - User login:  | {"_id":"683c5410e7c8baa62405cfe3","username":"yaz","fullname":"yazan meray","imgUrl":"https://res.cloudinary.com/vanilla-test-images/image/upload/v1748784134/slvrajbfvlviyf18vzzz.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 20:34:33 - INFO - server.js loaded...
+3.6.2025, 20:34:33 - INFO - Server is running on port: 3030
+3.6.2025, 20:34:33 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 20:34:33 - INFO - New connected socket [id: k64qipS-q5SJGy1eAAAB]
+3.6.2025, 20:34:33 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: k64qipS-q5SJGy1eAAAB]
+3.6.2025, 20:35:29 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:35:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:35:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:35:51 - DEBUG - auth.service - login with username: liel
+3.6.2025, 20:35:51 - ERROR - Failed to Login Invalid username or password
+3.6.2025, 20:43:35 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:43:35 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:43:35 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:43:49 - DEBUG - auth.service - login with username: liel
+3.6.2025, 20:43:49 - ERROR - Failed to Login Invalid username or password
+3.6.2025, 20:44:53 - INFO - server.js loaded...
+3.6.2025, 20:44:53 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 20:44:53 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 20:44:53 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 20:44:53 - ERROR - Error during seeding: | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 20:44:53 - INFO - Server is running on port: 3030
+3.6.2025, 20:44:54 - INFO - New connected socket [id: J1W8XeIPT9Gg7epsAAAC]
+3.6.2025, 20:44:54 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: J1W8XeIPT9Gg7epsAAAC]
+3.6.2025, 20:44:56 - INFO - server.js loaded...
+3.6.2025, 20:44:56 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 20:44:56 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 20:44:56 - ERROR - Error during seeding: | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 20:44:56 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 20:44:56 - INFO - Server is running on port: 3030
+3.6.2025, 20:45:31 - INFO - server.js loaded...
+3.6.2025, 20:45:31 - INFO - Server is running on port: 3030
+3.6.2025, 20:45:32 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 20:45:34 - INFO - New connected socket [id: p1ginTnlY0rZa_M6AAAC]
+3.6.2025, 20:45:34 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: p1ginTnlY0rZa_M6AAAC]
+3.6.2025, 20:47:21 - DEBUG - auth.service - login with username: liel
+3.6.2025, 20:47:21 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 20:47:21 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:47:43 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:47:43 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:55:36 - INFO - server.js loaded...
+3.6.2025, 20:55:36 - INFO - Server is running on port: 3030
+3.6.2025, 20:55:36 - INFO - New connected socket [id: xPGjW-J_gIvqICeuAAAB]
+3.6.2025, 20:55:36 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: xPGjW-J_gIvqICeuAAAB]
+3.6.2025, 20:55:37 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 20:55:40 - INFO - New connected socket [id: yNA4VH2BVgnit9m1AAAD]
+3.6.2025, 20:55:40 - INFO - Removing socket.userId for socket [id: yNA4VH2BVgnit9m1AAAD]
+3.6.2025, 20:55:40 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: yNA4VH2BVgnit9m1AAAD]
+3.6.2025, 20:55:47 - INFO - Socket disconnected [id: yNA4VH2BVgnit9m1AAAD]
+3.6.2025, 20:55:48 - INFO - New connected socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:55:48 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:55:48 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:56:00 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:56:00 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:56:29 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a42"}
+3.6.2025, 20:56:31 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:31 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:56:31 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:32 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:56:32 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:32 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:32 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:33 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:33 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:33 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:33 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:34 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:34 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:34 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:35 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:35 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:35 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:36 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:36 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:36 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:37 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:37 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:38 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:38 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:38 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:38 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:39 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:39 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:39 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:40 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:40 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:40 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:41 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:41 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:41 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:42 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:42 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:42 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:42 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:43 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:43 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:43 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:44 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:44 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:44 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:44 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:45 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:45 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:45 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:46 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:46 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:46 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:47 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:47 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:47 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:47 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:48 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:48 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:48 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:49 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:49 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:49 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:50 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:50 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:50 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:51 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:51 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:52 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:52 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:52 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:53 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:53 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:54 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:54 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:54 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:55 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:55 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:55 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:56 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:56 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:56 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:56 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:57 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:57 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:57 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:57 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:58 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:58 - INFO - Socket disconnected [id: x4v8cwSp80URRmvFAAAF]
+3.6.2025, 20:56:58 - INFO - No active socket for user: 683e3ffca088b4bcf7a49c27
+3.6.2025, 20:56:58 - INFO - New connected socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:56:58 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:56:58 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:56:59 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:57:06 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:57:06 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:57:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:14 - INFO - Socket disconnected [id: cIvr_tBNWFK3VB0HAAAH]
+3.6.2025, 20:57:15 - INFO - New connected socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:15 - INFO - No active socket for user: 683e3ffca088b4bcf7a49c27
+3.6.2025, 20:57:15 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:57:15 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:57:16 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:57:16 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:36 - INFO - Socket disconnected [id: M7Ywk5ytjx1L2NhYAAAJ]
+3.6.2025, 20:57:36 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:57:37 - INFO - /api/order | GET | {} | {}
+3.6.2025, 20:57:37 - INFO - New connected socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:37 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 20:57:37 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:57:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:18 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:18 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:18 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:19 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:19 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:25 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:25 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:25 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:27 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:27 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:27 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:28 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:28 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:36 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:36 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:36 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:58:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:18 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:18 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:18 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:19 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:19 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:19 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:25 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:25 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:25 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:27 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:27 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:27 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:28 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:28 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:28 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:36 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:36 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:36 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 20:59:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:18 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:18 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:18 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:19 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:19 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:19 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:21 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:22 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:23 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:24 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:25 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:25 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:25 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:26 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:27 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:27 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:27 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:28 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:28 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:28 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:29 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:30 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:31 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:32 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:33 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:34 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:35 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:36 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:36 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:36 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:37 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:38 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:39 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:42 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:47 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:48 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:49 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:50 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:51 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:52 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:53 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:54 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:55 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:56 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:57 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:58 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:00:59 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:00 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:04 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:05 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:06 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:08 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:09 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:10 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:11 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:12 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:13 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:15 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:16 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:17 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:17 - INFO - Socket disconnected [id: c0-CFjRFVjiC48hrAAAL]
+3.6.2025, 21:01:17 - INFO - No active socket for user: 683e3ffca088b4bcf7a49c27
+3.6.2025, 21:04:25 - INFO - New connected socket [id: J1hord6MlcrqMZ0-AAAN]
+3.6.2025, 21:04:26 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: J1hord6MlcrqMZ0-AAAN]
+3.6.2025, 21:04:26 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:04:32 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a42"}
+3.6.2025, 21:04:34 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: J1hord6MlcrqMZ0-AAAN]
+3.6.2025, 21:04:34 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:04:35 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:05:00 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:05:00 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:05:03 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: J1hord6MlcrqMZ0-AAAN]
+3.6.2025, 21:05:44 - INFO - New connected socket [id: ZTr0O1YMieUEel0xAAAP]
+3.6.2025, 21:05:44 - INFO - Removing socket.userId for socket [id: ZTr0O1YMieUEel0xAAAP]
+3.6.2025, 21:06:10 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 21:06:10 - INFO - User login:  | {"_id":"683e3ffba088b4bcf7a49c26","username":"yaz","fullname":"Yazan Meray","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748965160/yazanprofileimg_yp7uox.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 21:06:10 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: ZTr0O1YMieUEel0xAAAP]
+3.6.2025, 21:06:11 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:06:28 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:06:28 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:06:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:06:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:06:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:07:20 - INFO - Socket disconnected [id: J1hord6MlcrqMZ0-AAAN]
+3.6.2025, 21:07:20 - INFO - New connected socket [id: AnvRlUQICMvGd8huAAAR]
+3.6.2025, 21:07:20 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: AnvRlUQICMvGd8huAAAR]
+3.6.2025, 21:07:21 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:07:20 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:07:21 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:07:24 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:07:26 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:07:27 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:07:29 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:07:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:07:30 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:07:32 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a42"}
+3.6.2025, 21:07:39 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: AnvRlUQICMvGd8huAAAR]
+3.6.2025, 21:07:39 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:07:39 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:07:48 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: xPGjW-J_gIvqICeuAAAB]
+3.6.2025, 21:07:54 - INFO - Socket disconnected [id: ZTr0O1YMieUEel0xAAAP]
+3.6.2025, 21:07:54 - INFO - New connected socket [id: 4bXXDZtZVP2E4R1zAAAT]
+3.6.2025, 21:07:54 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:07:54 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: 4bXXDZtZVP2E4R1zAAAT]
+3.6.2025, 21:07:54 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:08:01 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a42"}
+3.6.2025, 21:08:03 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: AnvRlUQICMvGd8huAAAR]
+3.6.2025, 21:08:03 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:08:04 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:08:25 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: xPGjW-J_gIvqICeuAAAB]
+3.6.2025, 21:08:29 - INFO - Socket disconnected [id: 4bXXDZtZVP2E4R1zAAAT]
+3.6.2025, 21:08:29 - INFO - New connected socket [id: 1COVtuHz9h9w85dnAAAV]
+3.6.2025, 21:08:29 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:08:30 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: 1COVtuHz9h9w85dnAAAV]
+3.6.2025, 21:08:30 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:08:33 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:08:33 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:08:38 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:08:38 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:08:39 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:08:41 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a43"}
+3.6.2025, 21:08:43 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: AnvRlUQICMvGd8huAAAR]
+3.6.2025, 21:08:43 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:08:43 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:08:47 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:08:48 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:08:53 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: xPGjW-J_gIvqICeuAAAB]
+3.6.2025, 21:08:58 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:09:10 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a45"}
+3.6.2025, 21:09:45 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:09:47 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:09:47 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:09:47 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:09:49 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:09:49 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:09:52 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a46"}
+3.6.2025, 21:10:56 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:10:56 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:10:56 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:11:00 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:11:01 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:11:03 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a46"}
+3.6.2025, 21:11:04 - INFO - Emiting event: order-added to user: 683e3ffba088b4bcf7a49c26 socket [id: xPGjW-J_gIvqICeuAAAB]
+3.6.2025, 21:11:04 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:11:04 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:11:08 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:11:08 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:11:10 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: xPGjW-J_gIvqICeuAAAB]
+3.6.2025, 21:11:12 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:11:42 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:11:44 - INFO - Removing socket.userId for socket [id: AnvRlUQICMvGd8huAAAR]
+3.6.2025, 21:11:48 - INFO - Socket disconnected [id: AnvRlUQICMvGd8huAAAR]
+3.6.2025, 21:11:49 - INFO - New connected socket [id: AwlasvW6nHducLI1AAAX]
+3.6.2025, 21:11:49 - INFO - Removing socket.userId for socket [id: AwlasvW6nHducLI1AAAX]
+3.6.2025, 21:12:15 - INFO - server.js loaded...
+3.6.2025, 21:12:15 - INFO - Server is running on port: 3030
+3.6.2025, 21:12:15 - INFO - New connected socket [id: Eh4UQ_9_JepqH5IHAAAB]
+3.6.2025, 21:12:16 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:12:17 - INFO - New connected socket [id: gfZRA675-moBwZ_qAAAE]
+3.6.2025, 21:12:17 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: gfZRA675-moBwZ_qAAAE]
+3.6.2025, 21:12:17 - INFO - New connected socket [id: 1JmmBjqW1wr8EZcsAAAF]
+3.6.2025, 21:12:56 - INFO - Socket disconnected [id: Eh4UQ_9_JepqH5IHAAAB]
+3.6.2025, 21:12:58 - INFO - New connected socket [id: YEvAwz3arUdH12OZAAAH]
+3.6.2025, 21:12:58 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:12:58 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: YEvAwz3arUdH12OZAAAH]
+3.6.2025, 21:12:58 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:13:11 - INFO - Socket disconnected [id: 1JmmBjqW1wr8EZcsAAAF]
+3.6.2025, 21:13:11 - INFO - New connected socket [id: HuTxp7P39L0rRfliAAAJ]
+3.6.2025, 21:13:11 - INFO - Removing socket.userId for socket [id: HuTxp7P39L0rRfliAAAJ]
+3.6.2025, 21:13:12 - INFO - Socket disconnected [id: HuTxp7P39L0rRfliAAAJ]
+3.6.2025, 21:13:13 - INFO - New connected socket [id: uvYhrMNe5mLilnmkAAAL]
+3.6.2025, 21:13:13 - INFO - Removing socket.userId for socket [id: uvYhrMNe5mLilnmkAAAL]
+3.6.2025, 21:13:29 - DEBUG - auth.service - login with username: liel
+3.6.2025, 21:13:29 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 21:13:29 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: uvYhrMNe5mLilnmkAAAL]
+3.6.2025, 21:13:29 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:13:31 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:13:32 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:13:36 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a48"}
+3.6.2025, 21:13:39 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: uvYhrMNe5mLilnmkAAAL]
+3.6.2025, 21:13:39 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:13:40 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:13:43 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:13:43 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:13:46 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: uvYhrMNe5mLilnmkAAAL]
+3.6.2025, 21:13:49 - INFO - Socket disconnected [id: YEvAwz3arUdH12OZAAAH]
+3.6.2025, 21:13:50 - INFO - New connected socket [id: XefMrNW5DDgX4kbqAAAN]
+3.6.2025, 21:13:50 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:13:50 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: XefMrNW5DDgX4kbqAAAN]
+3.6.2025, 21:13:50 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:13:53 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:13:53 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:13:53 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:13:55 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+3.6.2025, 21:14:06 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:14:08 - INFO - Removing socket.userId for socket [id: XefMrNW5DDgX4kbqAAAN]
+3.6.2025, 21:14:13 - INFO - Socket disconnected [id: XefMrNW5DDgX4kbqAAAN]
+3.6.2025, 21:14:25 - INFO - New connected socket [id: gHn37XSR1PoDf8ZvAAAP]
+3.6.2025, 21:14:25 - INFO - Removing socket.userId for socket [id: gHn37XSR1PoDf8ZvAAAP]
+3.6.2025, 21:14:34 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 21:14:35 - INFO - User login:  | {"_id":"683e3ffba088b4bcf7a49c26","username":"yaz","fullname":"Yazan Meray","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748965160/yazanprofileimg_yp7uox.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 21:14:35 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: gHn37XSR1PoDf8ZvAAAP]
+3.6.2025, 21:14:35 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:14:38 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:14:38 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:14:42 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a47"}
+3.6.2025, 21:14:44 - INFO - Emiting event: order-added to user: 683e3ffba088b4bcf7a49c26 socket [id: gfZRA675-moBwZ_qAAAE]
+3.6.2025, 21:14:44 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:14:44 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:15:18 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:15:19 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:15:39 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: gfZRA675-moBwZ_qAAAE]
+3.6.2025, 21:15:56 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:15:56 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:15:56 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:16:00 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+3.6.2025, 21:16:01 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: uvYhrMNe5mLilnmkAAAL]
+3.6.2025, 21:16:01 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:16:01 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:34:09 - INFO - Socket disconnected [id: uvYhrMNe5mLilnmkAAAL]
+3.6.2025, 21:34:09 - INFO - New connected socket [id: fis_AFlQsZnkBacEAAAR]
+3.6.2025, 21:34:09 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: fis_AFlQsZnkBacEAAAR]
+3.6.2025, 21:34:09 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:34:09 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:34:09 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:34:20 - INFO - Socket disconnected [id: fis_AFlQsZnkBacEAAAR]
+3.6.2025, 21:34:21 - INFO - New connected socket [id: 8Gv-8q50jylm74lJAAAT]
+3.6.2025, 21:34:21 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:34:21 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:34:21 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: 8Gv-8q50jylm74lJAAAT]
+3.6.2025, 21:34:21 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:35:13 - INFO - server.js loaded...
+3.6.2025, 21:35:13 - INFO - Server is running on port: 3030
+3.6.2025, 21:35:13 - INFO - New connected socket [id: C38Db4L6bkp6fHZoAAAB]
+3.6.2025, 21:35:14 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:35:14 - INFO - New connected socket [id: gPNNBA2MqduvUvDKAAAD]
+3.6.2025, 21:35:14 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: gPNNBA2MqduvUvDKAAAD]
+3.6.2025, 21:35:18 - INFO - New connected socket [id: qLm2S_ZfR10bqVP-AAAF]
+3.6.2025, 21:37:03 - INFO - server.js loaded...
+3.6.2025, 21:37:03 - INFO - Server is running on port: 3030
+3.6.2025, 21:37:03 - INFO - New connected socket [id: WCNq9HR9HpF1wNzxAAAC]
+3.6.2025, 21:37:03 - INFO - New connected socket [id: lu9Bf2QTCna8fSLTAAAD]
+3.6.2025, 21:37:04 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:37:04 - INFO - New connected socket [id: tktzol2qzsl-ZnB8AAAF]
+3.6.2025, 21:37:04 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: tktzol2qzsl-ZnB8AAAF]
+3.6.2025, 21:38:02 - INFO - server.js loaded...
+3.6.2025, 21:38:02 - INFO - Server is running on port: 3030
+3.6.2025, 21:38:02 - INFO - New connected socket [id: TbAZHGD5BiM-f9KlAAAC]
+3.6.2025, 21:38:02 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: TbAZHGD5BiM-f9KlAAAC]
+3.6.2025, 21:38:02 - INFO - New connected socket [id: VIcBiH93yDBpdmcSAAAD]
+3.6.2025, 21:38:02 - INFO - New connected socket [id: goenEfYvssO2XFC2AAAF]
+3.6.2025, 21:38:09 - INFO - server.js loaded...
+3.6.2025, 21:38:09 - INFO - Server is running on port: 3030
+3.6.2025, 21:38:09 - INFO - New connected socket [id: 8FdWJ8xGzJl5myAHAAAD]
+3.6.2025, 21:38:09 - INFO - New connected socket [id: e_MZhFzu9q1QRh4qAAAC]
+3.6.2025, 21:38:09 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: e_MZhFzu9q1QRh4qAAAC]
+3.6.2025, 21:38:10 - INFO - New connected socket [id: adCuxSvNvkOI4T-wAAAF]
+3.6.2025, 21:38:10 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:38:13 - INFO - server.js loaded...
+3.6.2025, 21:38:13 - INFO - Server is running on port: 3030
+3.6.2025, 21:38:13 - INFO - New connected socket [id: kPCk_HV9Dlv3nEM3AAAC]
+3.6.2025, 21:38:13 - INFO - New connected socket [id: 2AR7SIAe4f_DAj9yAAAD]
+3.6.2025, 21:38:13 - INFO - New connected socket [id: g_4emFQwwROrZKmRAAAF]
+3.6.2025, 21:38:13 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: g_4emFQwwROrZKmRAAAF]
+3.6.2025, 21:38:14 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:38:35 - INFO - server.js loaded...
+3.6.2025, 21:38:35 - INFO - Server is running on port: 3030
+3.6.2025, 21:38:35 - INFO - New connected socket [id: CQ9id_VVaAtd-lx0AAAD]
+3.6.2025, 21:38:35 - INFO - New connected socket [id: eih_PWFZtnS3HwgUAAAE]
+3.6.2025, 21:38:35 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: CQ9id_VVaAtd-lx0AAAD]
+3.6.2025, 21:38:35 - INFO - New connected socket [id: fi4yRPuolYVhq_H2AAAF]
+3.6.2025, 21:38:36 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:38:52 - INFO - server.js loaded...
+3.6.2025, 21:38:52 - INFO - Server is running on port: 3030
+3.6.2025, 21:38:52 - INFO - New connected socket [id: KQZfXXZ10XKi9KtrAAAC]
+3.6.2025, 21:38:52 - INFO - New connected socket [id: l78PA1EYNWnpj_VwAAAD]
+3.6.2025, 21:38:52 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: KQZfXXZ10XKi9KtrAAAC]
+3.6.2025, 21:38:53 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:38:55 - INFO - server.js loaded...
+3.6.2025, 21:38:55 - INFO - Server is running on port: 3030
+3.6.2025, 21:38:55 - INFO - New connected socket [id: sg8UXc8KQ6rOXbPQAAAB]
+3.6.2025, 21:38:55 - INFO - New connected socket [id: bfo9Y_ENO8O23jHUAAAE]
+3.6.2025, 21:38:55 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: bfo9Y_ENO8O23jHUAAAE]
+3.6.2025, 21:38:55 - INFO - New connected socket [id: X6kP2luPDQ1wdBBxAAAF]
+3.6.2025, 21:38:56 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:40:16 - INFO - server.js loaded...
+3.6.2025, 21:40:16 - INFO - Server is running on port: 3030
+3.6.2025, 21:40:16 - INFO - New connected socket [id: XFbvfNRngdDX4GG6AAAB]
+3.6.2025, 21:40:17 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:40:21 - INFO - New connected socket [id: fm8q8vRyYd9XwqAaAAAE]
+3.6.2025, 21:40:21 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: fm8q8vRyYd9XwqAaAAAE]
+3.6.2025, 21:40:21 - INFO - New connected socket [id: sHloZMr3Xc1DSaubAAAF]
+3.6.2025, 21:40:26 - INFO - Socket disconnected [id: sHloZMr3Xc1DSaubAAAF]
+3.6.2025, 21:40:26 - INFO - New connected socket [id: _w5tJ0xhfxsP0yx-AAAH]
+3.6.2025, 21:40:26 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:40:26 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: _w5tJ0xhfxsP0yx-AAAH]
+3.6.2025, 21:40:26 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:40:27 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:40:47 - INFO - server.js loaded...
+3.6.2025, 21:40:47 - INFO - Server is running on port: 3030
+3.6.2025, 21:40:47 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: BxGeZHkXjJChcTn_AAAB]
+3.6.2025, 21:40:47 - INFO - New connected socket [id: BxGeZHkXjJChcTn_AAAB]
+3.6.2025, 21:40:47 - INFO - New connected socket [id: CWhkS6D0b1MdP6gcAAAE]
+3.6.2025, 21:40:47 - INFO - New connected socket [id: 05BpCyMz61q7lLBGAAAF]
+3.6.2025, 21:40:48 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:40:52 - INFO - server.js loaded...
+3.6.2025, 21:40:52 - INFO - Server is running on port: 3030
+3.6.2025, 21:40:53 - INFO - New connected socket [id: LAlhRKJYTjJD0nSOAAAD]
+3.6.2025, 21:40:53 - INFO - New connected socket [id: wqvT4_-yhs3_mc1zAAAE]
+3.6.2025, 21:40:53 - INFO - New connected socket [id: 22sSL2oZqOTVCyx1AAAF]
+3.6.2025, 21:40:53 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: 22sSL2oZqOTVCyx1AAAF]
+3.6.2025, 21:40:53 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:41:04 - INFO - server.js loaded...
+3.6.2025, 21:41:04 - INFO - Server is running on port: 3030
+3.6.2025, 21:41:04 - INFO - New connected socket [id: WMXiLwQBFJiL9DsAAAAC]
+3.6.2025, 21:41:04 - INFO - New connected socket [id: df1uFtsfJsPVTCWkAAAD]
+3.6.2025, 21:41:04 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: df1uFtsfJsPVTCWkAAAD]
+3.6.2025, 21:41:05 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:41:05 - INFO - New connected socket [id: kGUxtVzs8Uh_b3tlAAAF]
+3.6.2025, 21:41:21 - INFO - Socket disconnected [id: kGUxtVzs8Uh_b3tlAAAF]
+3.6.2025, 21:41:22 - INFO - New connected socket [id: AG76R0WbmQkUoLzHAAAH]
+3.6.2025, 21:41:22 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:41:22 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:41:22 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: AG76R0WbmQkUoLzHAAAH]
+3.6.2025, 21:41:22 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:49:20 - INFO - server.js loaded...
+3.6.2025, 21:49:20 - INFO - Server is running on port: 3030
+3.6.2025, 21:49:20 - INFO - New connected socket [id: pOpIOfGF0Bs56bR3AAAB]
+3.6.2025, 21:49:20 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: pOpIOfGF0Bs56bR3AAAB]
+3.6.2025, 21:49:20 - INFO - New connected socket [id: LkSpwaFLyxwV1H4FAAAE]
+3.6.2025, 21:49:20 - INFO - New connected socket [id: In_GanuS1fYohu_zAAAF]
+3.6.2025, 21:49:21 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:49:32 - INFO - server.js loaded...
+3.6.2025, 21:49:32 - INFO - Server is running on port: 3030
+3.6.2025, 21:49:33 - INFO - New connected socket [id: B4Sq_HXCV30_i9Q7AAAC]
+3.6.2025, 21:49:33 - INFO - New connected socket [id: 9JE3iFdrc5N-zD3rAAAD]
+3.6.2025, 21:49:33 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: 9JE3iFdrc5N-zD3rAAAD]
+3.6.2025, 21:49:33 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:49:36 - INFO - New connected socket [id: HA0yBAfDHBFbU-YTAAAF]
+3.6.2025, 21:49:45 - INFO - Socket disconnected [id: HA0yBAfDHBFbU-YTAAAF]
+3.6.2025, 21:49:46 - INFO - New connected socket [id: _ccjT6S9fi1dL5c2AAAH]
+3.6.2025, 21:49:46 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: _ccjT6S9fi1dL5c2AAAH]
+3.6.2025, 21:49:46 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:49:46 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:49:46 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:50:26 - INFO - server.js loaded...
+3.6.2025, 21:50:26 - INFO - Server is running on port: 3030
+3.6.2025, 21:50:27 - INFO - New connected socket [id: zBOusYRMGL6VdXOoAAAB]
+3.6.2025, 21:50:27 - INFO - Removing socket.userId for socket [id: zBOusYRMGL6VdXOoAAAB]
+3.6.2025, 21:50:27 - INFO - New connected socket [id: JHe0-AEXqWbTHrzeAAAD]
+3.6.2025, 21:50:28 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:50:30 - INFO - New connected socket [id: H_MFdsF0C51zFUV7AAAF]
+3.6.2025, 21:50:30 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: H_MFdsF0C51zFUV7AAAF]
+3.6.2025, 21:50:41 - DEBUG - auth.service - login with username: liel
+3.6.2025, 21:50:41 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 21:50:51 - DEBUG - auth.service - login with username: liel
+3.6.2025, 21:50:51 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 21:51:15 - INFO - server.js loaded...
+3.6.2025, 21:51:16 - INFO - Server is running on port: 3030
+3.6.2025, 21:51:16 - INFO - New connected socket [id: -V9QtAcnMEFNFekFAAAB]
+3.6.2025, 21:51:16 - INFO - New connected socket [id: mrpCHYzWRJgvounfAAAD]
+3.6.2025, 21:51:16 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: mrpCHYzWRJgvounfAAAD]
+3.6.2025, 21:51:16 - INFO - New connected socket [id: MJZymoV-gXL_ZzvyAAAF]
+3.6.2025, 21:51:17 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 21:51:18 - DEBUG - auth.service - login with username: liel
+3.6.2025, 21:51:18 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 21:51:20 - INFO - Socket disconnected [id: -V9QtAcnMEFNFekFAAAB]
+3.6.2025, 21:51:20 - INFO - New connected socket [id: yFuPmf-P9LqeUaOgAAAH]
+3.6.2025, 21:51:20 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: yFuPmf-P9LqeUaOgAAAH]
+3.6.2025, 21:51:21 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:51:38 - DEBUG - auth.service - login with username: liel
+3.6.2025, 21:51:38 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 21:52:19 - INFO - Socket disconnected [id: yFuPmf-P9LqeUaOgAAAH]
+3.6.2025, 21:52:19 - INFO - New connected socket [id: EYpGifSwbjsLjOVVAAAJ]
+3.6.2025, 21:52:20 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: EYpGifSwbjsLjOVVAAAJ]
+3.6.2025, 21:52:20 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:52:32 - INFO - Socket disconnected [id: EYpGifSwbjsLjOVVAAAJ]
+3.6.2025, 21:52:32 - INFO - New connected socket [id: EmOfOteNIOIIYQA2AAAL]
+3.6.2025, 21:52:32 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:52:33 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: EmOfOteNIOIIYQA2AAAL]
+3.6.2025, 21:52:34 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:52:35 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:52:50 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a43"}
+3.6.2025, 21:52:52 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: EmOfOteNIOIIYQA2AAAL]
+3.6.2025, 21:52:52 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:52:52 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:52:58 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:52:58 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 21:53:14 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: EmOfOteNIOIIYQA2AAAL]
+3.6.2025, 21:53:27 - INFO - Socket disconnected [id: MJZymoV-gXL_ZzvyAAAF]
+3.6.2025, 21:53:28 - INFO - New connected socket [id: zDJ4cBBtrzezBfvjAAAN]
+3.6.2025, 21:53:28 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:53:28 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: zDJ4cBBtrzezBfvjAAAN]
+3.6.2025, 21:53:29 - INFO - /api/order | GET | {} | {}
+3.6.2025, 21:53:32 - INFO - Removing socket.userId for socket [id: zDJ4cBBtrzezBfvjAAAN]
+3.6.2025, 21:53:59 - INFO - Socket disconnected [id: zDJ4cBBtrzezBfvjAAAN]
+3.6.2025, 21:54:48 - INFO - Socket disconnected [id: mrpCHYzWRJgvounfAAAD]
+3.6.2025, 21:56:11 - INFO - Removing socket.userId for socket [id: EmOfOteNIOIIYQA2AAAL]
+3.6.2025, 21:56:28 - INFO - Socket disconnected [id: EmOfOteNIOIIYQA2AAAL]
+3.6.2025, 21:56:28 - INFO - New connected socket [id: t2ds65e56I5gcTAGAAAP]
+3.6.2025, 21:56:28 - INFO - Removing socket.userId for socket [id: t2ds65e56I5gcTAGAAAP]
+3.6.2025, 21:56:36 - INFO - Socket disconnected [id: t2ds65e56I5gcTAGAAAP]
+3.6.2025, 21:56:37 - INFO - New connected socket [id: dKQ4B_npMb0T25KGAAAR]
+3.6.2025, 21:56:37 - INFO - Removing socket.userId for socket [id: dKQ4B_npMb0T25KGAAAR]
+3.6.2025, 21:57:09 - INFO - Socket disconnected [id: dKQ4B_npMb0T25KGAAAR]
+3.6.2025, 21:57:10 - INFO - New connected socket [id: 2w7rScRQ0sQ8cWW-AAAT]
+3.6.2025, 21:57:10 - INFO - Removing socket.userId for socket [id: 2w7rScRQ0sQ8cWW-AAAT]
+3.6.2025, 22:02:27 - INFO - Socket disconnected [id: 2w7rScRQ0sQ8cWW-AAAT]
+3.6.2025, 22:02:27 - INFO - New connected socket [id: hPLKLW8cXXW4qerpAAAV]
+3.6.2025, 22:02:27 - INFO - Removing socket.userId for socket [id: hPLKLW8cXXW4qerpAAAV]
+3.6.2025, 22:05:18 - INFO - Socket disconnected [id: hPLKLW8cXXW4qerpAAAV]
+3.6.2025, 22:05:18 - INFO - New connected socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:05:18 - INFO - Removing socket.userId for socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:05:29 - DEBUG - auth.service - login with username: liel
+3.6.2025, 22:05:29 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 22:05:29 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:05:29 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:05:32 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:05:32 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:05:37 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a45"}
+3.6.2025, 22:05:38 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:05:38 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:05:39 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:05:42 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:05:42 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:05:44 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:05:48 - INFO - Removing socket.userId for socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:05:59 - DEBUG - auth.service - login with username: yaz
+3.6.2025, 22:06:00 - INFO - User login:  | {"_id":"683e3ffba088b4bcf7a49c26","username":"yaz","fullname":"Yazan Meray","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748965160/yazanprofileimg_yp7uox.png","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 22:06:00 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:06:00 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:06:02 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:06:03 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:06:07 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a4b"}
+3.6.2025, 22:06:08 - INFO - Emiting event: order-added to user: 683e3ffba088b4bcf7a49c26 socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:06:08 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:06:09 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:06:12 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:06:12 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:06:15 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:06:29 - INFO - New connected socket [id: 1Fn-XT8FIJt-hrBBAAAZ]
+3.6.2025, 22:06:29 - INFO - Removing socket.userId for socket [id: 1Fn-XT8FIJt-hrBBAAAZ]
+3.6.2025, 22:06:39 - DEBUG - auth.service - login with username: liel
+3.6.2025, 22:06:40 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 22:06:40 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: 1Fn-XT8FIJt-hrBBAAAZ]
+3.6.2025, 22:06:40 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:06:43 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:06:43 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:07:13 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:07:14 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:07:14 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:07:27 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a4b"}
+3.6.2025, 22:07:30 - INFO - Emiting event: order-added to user: 683e3ffba088b4bcf7a49c26 socket [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:07:30 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:07:30 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:07:45 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: 1Fn-XT8FIJt-hrBBAAAZ]
+3.6.2025, 22:07:55 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:07:55 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:07:55 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:08:01 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+3.6.2025, 22:08:03 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: 1Fn-XT8FIJt-hrBBAAAZ]
+3.6.2025, 22:08:03 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:08:04 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:03 - INFO - Socket disconnected [id: 1Fn-XT8FIJt-hrBBAAAZ]
+3.6.2025, 22:09:03 - INFO - New connected socket [id: yhJitIriQ3rWq4cWAAAb]
+3.6.2025, 22:09:04 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:04 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:04 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: yhJitIriQ3rWq4cWAAAb]
+3.6.2025, 22:09:04 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:09:12 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:18 - INFO - Socket disconnected [id: yhJitIriQ3rWq4cWAAAb]
+3.6.2025, 22:09:19 - INFO - New connected socket [id: ifd6drSJ7UnPWWQSAAAd]
+3.6.2025, 22:09:19 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:19 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: ifd6drSJ7UnPWWQSAAAd]
+3.6.2025, 22:09:19 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:21 - INFO - Socket disconnected [id: jBr6F1ZTC3-HNhw_AAAX]
+3.6.2025, 22:09:21 - INFO - New connected socket [id: z4lGmRjMmtXvyCHrAAAf]
+3.6.2025, 22:09:21 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: z4lGmRjMmtXvyCHrAAAf]
+3.6.2025, 22:09:21 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:22 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:33 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a44"}
+3.6.2025, 22:09:36 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: ifd6drSJ7UnPWWQSAAAd]
+3.6.2025, 22:09:36 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:36 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:40 - INFO - Socket disconnected [id: ifd6drSJ7UnPWWQSAAAd]
+3.6.2025, 22:09:40 - INFO - New connected socket [id: _Tl5DoHlvuzm8-JwAAAh]
+3.6.2025, 22:09:41 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:09:41 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: _Tl5DoHlvuzm8-JwAAAh]
+3.6.2025, 22:09:41 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:10:14 - INFO - Socket disconnected [id: _Tl5DoHlvuzm8-JwAAAh]
+3.6.2025, 22:10:14 - INFO - New connected socket [id: DJuge2G7SeUe_2PLAAAj]
+3.6.2025, 22:10:14 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:10:14 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: DJuge2G7SeUe_2PLAAAj]
+3.6.2025, 22:10:14 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:10:15 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:10:23 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: z4lGmRjMmtXvyCHrAAAf]
+3.6.2025, 22:10:26 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: z4lGmRjMmtXvyCHrAAAf]
+3.6.2025, 22:26:55 - INFO - Socket disconnected [id: DJuge2G7SeUe_2PLAAAj]
+3.6.2025, 22:26:55 - INFO - Socket disconnected [id: z4lGmRjMmtXvyCHrAAAf]
+3.6.2025, 22:26:58 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:26:59 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:26:59 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:27:06 - INFO - New connected socket [id: i9TQGmrwt9GpryhyAAAl]
+3.6.2025, 22:27:06 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:27:06 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: i9TQGmrwt9GpryhyAAAl]
+3.6.2025, 22:27:06 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:27:07 - INFO - New connected socket [id: YoymQUz3FdBxdV5NAAAn]
+3.6.2025, 22:27:07 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:27:07 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: YoymQUz3FdBxdV5NAAAn]
+3.6.2025, 22:29:30 - INFO - server.js loaded...
+3.6.2025, 22:29:30 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 22:29:30 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 22:29:30 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 22:29:30 - ERROR - Error during seeding: | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 22:29:30 - INFO - Server is running on port: 3030
+3.6.2025, 22:29:30 - INFO - New connected socket [id: kCSEW_CYeUjetrPAAAAC]
+3.6.2025, 22:29:30 - INFO - New connected socket [id: aNN8FJK5b7U_wkYqAAAD]
+3.6.2025, 22:29:34 - INFO - server.js loaded...
+3.6.2025, 22:29:34 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 22:29:34 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 22:29:34 - ERROR - Error during seeding: | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 22:29:34 - INFO - Server is running on port: 3030
+3.6.2025, 22:29:34 - ERROR - cannot find users | TypeError: Cannot read properties of undefined (reading 'startsWith')
+3.6.2025, 22:29:34 - INFO - New connected socket [id: _VAb5ov9823OV_i-AAAC]
+3.6.2025, 22:29:34 - INFO - New connected socket [id: XWEJE6WQQc-ryW-UAAAD]
+3.6.2025, 22:29:37 - INFO - server.js loaded...
+3.6.2025, 22:29:38 - INFO - Server is running on port: 3030
+3.6.2025, 22:29:38 - INFO - New connected socket [id: HMLoCy4N_PPjHrlKAAAC]
+3.6.2025, 22:29:38 - INFO - New connected socket [id: j-KRiBzYnUcH0kH1AAAD]
+3.6.2025, 22:29:38 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 22:30:04 - INFO - server.js loaded...
+3.6.2025, 22:30:04 - INFO - Server is running on port: 3030
+3.6.2025, 22:30:04 - INFO - New connected socket [id: cf6nELH3Awh_PaU1AAAB]
+3.6.2025, 22:30:04 - INFO - New connected socket [id: XZ9BLg7O95xTY9UuAAAD]
+3.6.2025, 22:30:05 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 22:34:30 - INFO - Socket disconnected [id: XZ9BLg7O95xTY9UuAAAD]
+3.6.2025, 22:34:30 - INFO - New connected socket [id: PLWc7ONEW5cKnWY-AAAF]
+3.6.2025, 22:34:30 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: PLWc7ONEW5cKnWY-AAAF]
+3.6.2025, 22:34:30 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:34:31 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:34:34 - INFO - Removing socket.userId for socket [id: PLWc7ONEW5cKnWY-AAAF]
+3.6.2025, 22:34:42 - DEBUG - auth.service - login with username: liel
+3.6.2025, 22:34:43 - INFO - User login:  | {"_id":"683e3ffca088b4bcf7a49c27","username":"liel","fullname":"Liel Yaakov","imgUrl":"https://res.cloudinary.com/dzxfxlkyf/image/upload/v1748955006/lielprofile_oofe9r.jpg","desc":"","isSeller":false,"lang":["English","Hebrew"],"level":1,"location":"Israel","reviews":[],"rate":null}
+3.6.2025, 22:34:43 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: PLWc7ONEW5cKnWY-AAAF]
+3.6.2025, 22:34:43 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:34:45 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:34:47 - INFO - No active socket for user: 683e3ffba088b4bcf7a49c26
+3.6.2025, 22:34:50 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:34:50 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:34:55 - INFO - /api/gig | GET | {} | {"id":"68373f6003c2ef6e59279a43"}
+3.6.2025, 22:34:56 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: PLWc7ONEW5cKnWY-AAAF]
+3.6.2025, 22:34:56 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:34:57 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:34:59 - INFO - /api/order | GET | {} | {}
+3.6.2025, 22:34:59 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:35:01 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: PLWc7ONEW5cKnWY-AAAF]
+3.6.2025, 22:35:03 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:35:04 - INFO - /api/gig | GET | {} | {}
+3.6.2025, 22:35:04 - INFO - /api/gig | GET | {} | {}

@@ -1,5 +1,5 @@
 export default {
-    dbURL: 'mongodb://localhost:27017',
-    dbName : 'local',
+    dbURL: process.env.MONGO_URL || 'mongodb://localhost:27017',
+    dbName: process.env.DB_NAME || 'sevenerr-db'
   }
   
