@@ -4046,3 +4046,8 @@
 3.6.2025, 22:41:30 - INFO - Server is running on port: 3030
 3.6.2025, 22:41:31 - INFO - New connected socket [id: FrtiCqIi_BIMIx23AAAB]
 3.6.2025, 22:41:32 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 23:36:54 - INFO - server.js loaded...
+3.6.2025, 23:36:54 - INFO - Server is running on port: 3030
+3.6.2025, 23:36:55 - INFO - Users collection is not empty. Skipping seeding.
+3.6.2025, 23:37:12 - INFO - New connected socket [id: jJ4UFMrvB0x7hQQsAAAB]
+3.6.2025, 23:37:12 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: jJ4UFMrvB0x7hQQsAAAB]
