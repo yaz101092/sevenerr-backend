@@ -4140,3 +4140,8 @@
 4.6.2025, 4:21:59 - INFO - New connected socket [id: x8fZUdG-cmuVV1Z5AAAC]
 4.6.2025, 4:21:59 - INFO - New connected socket [id: u8HA_zn__iA79tSrAAAD]
 4.6.2025, 4:22:00 - INFO - Users collection is not empty. Skipping seeding.
+4.6.2025, 4:23:06 - INFO - Socket disconnected [id: u8HA_zn__iA79tSrAAAD]
+4.6.2025, 4:23:18 - INFO - Socket disconnected [id: x8fZUdG-cmuVV1Z5AAAC]
+4.6.2025, 12:35:06 - INFO - server.js loaded...
+4.6.2025, 12:35:06 - INFO - Server is running on port: 3030
+4.6.2025, 12:35:07 - INFO - Users collection is not empty. Skipping seeding.
