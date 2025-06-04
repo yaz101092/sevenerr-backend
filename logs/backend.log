@@ -4051,3 +4051,92 @@
 3.6.2025, 23:36:55 - INFO - Users collection is not empty. Skipping seeding.
 3.6.2025, 23:37:12 - INFO - New connected socket [id: jJ4UFMrvB0x7hQQsAAAB]
 3.6.2025, 23:37:12 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: jJ4UFMrvB0x7hQQsAAAB]
+4.6.2025, 3:53:05 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: SjYwK6ajJ_cg_4fBAAAD]
+4.6.2025, 3:53:05 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: hzsG8TtF6zS8lb8KAAAF]
+4.6.2025, 3:53:13 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: SjYwK6ajJ_cg_4fBAAAD]
+4.6.2025, 3:53:13 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: hzsG8TtF6zS8lb8KAAAF]
+4.6.2025, 3:53:29 - INFO - /api/order | GET | {} | {}
+4.6.2025, 3:53:32 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: SjYwK6ajJ_cg_4fBAAAD]
+4.6.2025, 3:53:37 - INFO - /api/order | GET | {} | {}
+4.6.2025, 3:53:38 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 3:53:41 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: SjYwK6ajJ_cg_4fBAAAD]
+4.6.2025, 4:01:26 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:01:26 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: SjYwK6ajJ_cg_4fBAAAD]
+4.6.2025, 4:01:26 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: hzsG8TtF6zS8lb8KAAAF]
+4.6.2025, 4:01:26 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:01:26 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:01:27 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:01:27 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:01:28 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: SjYwK6ajJ_cg_4fBAAAD]
+4.6.2025, 4:01:28 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: hzsG8TtF6zS8lb8KAAAF]
+4.6.2025, 4:02:49 - INFO - Socket disconnected [id: SjYwK6ajJ_cg_4fBAAAD]
+4.6.2025, 4:02:50 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:02:50 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:02:50 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:02:50 - INFO - New connected socket [id: IwJW4pITqGFZq2J8AAAH]
+4.6.2025, 4:02:50 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: IwJW4pITqGFZq2J8AAAH]
+4.6.2025, 4:02:52 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:02:53 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: IwJW4pITqGFZq2J8AAAH]
+4.6.2025, 4:02:59 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:02:59 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:03:02 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: IwJW4pITqGFZq2J8AAAH]
+4.6.2025, 4:05:56 - INFO - Socket disconnected [id: hzsG8TtF6zS8lb8KAAAF]
+4.6.2025, 4:05:57 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:05:57 - INFO - New connected socket [id: l4cn1p4tnkEYLwElAAAJ]
+4.6.2025, 4:05:57 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: l4cn1p4tnkEYLwElAAAJ]
+4.6.2025, 4:05:57 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:05:59 - INFO - Socket disconnected [id: IwJW4pITqGFZq2J8AAAH]
+4.6.2025, 4:05:59 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:06:00 - INFO - New connected socket [id: IXSiIeA5RgB-UwGVAAAL]
+4.6.2025, 4:06:00 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:06:00 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: IXSiIeA5RgB-UwGVAAAL]
+4.6.2025, 4:06:00 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:06:05 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: IXSiIeA5RgB-UwGVAAAL]
+4.6.2025, 4:06:12 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: l4cn1p4tnkEYLwElAAAJ]
+4.6.2025, 4:07:39 - INFO - Socket disconnected [id: IXSiIeA5RgB-UwGVAAAL]
+4.6.2025, 4:07:39 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:07:40 - INFO - New connected socket [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:07:40 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:07:40 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:07:40 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:07:53 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:07:57 - INFO - Emiting event: order-added to user: 683e3ffba088b4bcf7a49c26 socket [id: l4cn1p4tnkEYLwElAAAJ]
+4.6.2025, 4:08:04 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:08:05 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:08:07 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:09:43 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:11:02 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:11:02 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: l4cn1p4tnkEYLwElAAAJ]
+4.6.2025, 4:11:06 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: l4cn1p4tnkEYLwElAAAJ]
+4.6.2025, 4:11:06 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:11:07 - INFO - Setting socket.userId = 683e3ffba088b4bcf7a49c26 for socket [id: l4cn1p4tnkEYLwElAAAJ]
+4.6.2025, 4:11:07 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:11:12 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:11:18 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:11:18 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:11:20 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:12:27 - INFO - Socket disconnected [id: 0Q7q_qV70UEJ_YT3AAAN]
+4.6.2025, 4:12:27 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:12:27 - INFO - New connected socket [id: vBr1I8GYCkoIj3sDAAAP]
+4.6.2025, 4:12:27 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:12:28 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: vBr1I8GYCkoIj3sDAAAP]
+4.6.2025, 4:12:28 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:12:39 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:12:43 - INFO - Emiting event: order-added to user: 683e3ffca088b4bcf7a49c27 socket [id: vBr1I8GYCkoIj3sDAAAP]
+4.6.2025, 4:14:10 - INFO - Emiting event: order-status-updated to user: 683e3ffba088b4bcf7a49c26 socket [id: l4cn1p4tnkEYLwElAAAJ]
+4.6.2025, 4:16:21 - INFO - Socket disconnected [id: vBr1I8GYCkoIj3sDAAAP]
+4.6.2025, 4:16:22 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:16:22 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:16:22 - INFO - New connected socket [id: IthiZHVPb4Z2Vz7aAAAR]
+4.6.2025, 4:16:22 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:16:22 - INFO - Setting socket.userId = 683e3ffca088b4bcf7a49c27 for socket [id: IthiZHVPb4Z2Vz7aAAAR]
+4.6.2025, 4:16:27 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:16:30 - INFO - Emiting event: order-added to user: 683e3ffba088b4bcf7a49c26 socket [id: l4cn1p4tnkEYLwElAAAJ]
+4.6.2025, 4:16:36 - INFO - /api/order | GET | {} | {}
+4.6.2025, 4:16:36 - INFO - /api/gig | GET | {} | {}
+4.6.2025, 4:16:40 - INFO - Emiting event: order-status-updated to user: 683e3ffca088b4bcf7a49c27 socket [id: IthiZHVPb4Z2Vz7aAAAR]
+4.6.2025, 4:21:59 - INFO - server.js loaded...
+4.6.2025, 4:21:59 - INFO - Server is running on port: 3030
+4.6.2025, 4:21:59 - INFO - New connected socket [id: x8fZUdG-cmuVV1Z5AAAC]
+4.6.2025, 4:21:59 - INFO - New connected socket [id: u8HA_zn__iA79tSrAAAD]
+4.6.2025, 4:22:00 - INFO - Users collection is not empty. Skipping seeding.
